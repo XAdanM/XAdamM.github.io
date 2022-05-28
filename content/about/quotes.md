@@ -33,3 +33,6 @@ type: page
 
 "The universe tends toward maximum irony. Don't push it."  
 \- Jamie Zawinski
+
+"Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
+\- Alan Kay
