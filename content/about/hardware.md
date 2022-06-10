@@ -7,14 +7,15 @@ type: page
 ## Current
 | Type | Model | OS | CPU | GPU | RAM | Time used |
 | --- | --- | --- | --- | --- | --- | --- |
+| Laptop | Lenovo ThinkPad X1 Yoga Gen 6 | Arch Linux | 2.8 GHz Intel Core i5-1135G7 | Intel Iris Xe | 16 GB | 2022-05-18 to now |
 | Phone | Google Pixel 6 | GrapheneOS | Octa-core, (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55) | Mali-G78 MP20 | 8 GB | 2022-03-19 to now |
 | Desktop, Workstation, Server | [exozyme](exozy.me) | Arch Linux | 3.7 GHz AMD Ryzen 9 5900X | 1968 MHz AMD Radeon RX 6600 XT | 32 GB | 2021-03-27 to now |
-| Console | Nintendo Switch (unpatched) | Quad-boot Horizon OS, Atmosphère, Ubuntu, LineageOS | 1.02 GHz ARM Cortex-A57 | 768 MHz Nvidia GM20B | 4 GB | 2020-03-03 to now |
 | Calculator | TI-Nspire CX CAS (rev v) | Ndless | 132 MHz ARM9-26EJ-S | None | 64 MB | 2017-05 to now |
 
 ## Retired
 | Type | Model | OS | CPU | GPU | RAM | Time used |
 | --- | --- | --- | --- | --- | --- | --- |
+| Console | Nintendo Switch (unpatched) | Quad-boot Horizon OS, Atmosphère, Ubuntu, LineageOS | 1.02 GHz ARM Cortex-A57 | 768 MHz Nvidia GM20B | 4 GB | 2020-03-03 to 2022-06-10 |
 | Phone | Apple iPhone 6S | Jailbroken iOS | 1.85 GHz ARMv8-A Twister | 650 MHz PowerVR Series7XT | 2 GB | 2020 to 2022-03-19 |
 | Console | Nintendo Wii U | Haxchi | 1.24 GHz IBM PowerPC Espresso | 550 MHz AMD Radeon-based Latte | 2 GB | 2019-07 to 2022-02-15 |
 | Laptop | MacBook Air (13-inch, 2017) | macOS | 1.8 GHz Intel Core i5-5350 | Intel HD Graphics 6000 | 8 GB | 2018-09 to 2022-05-13 (school property) |
