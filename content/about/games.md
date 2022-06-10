@@ -44,7 +44,7 @@ type: page
 - FlightGear
 - Dungeon Crawl Stone Soup
 - The Powder Toy
-- MineTest
+- Minetest
 - Terasology
 - Veloren
 - Xonotic
