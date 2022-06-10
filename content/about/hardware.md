@@ -15,6 +15,7 @@ type: page
 ## Retired
 | Type | Model | OS | CPU | GPU | RAM | Time used |
 | --- | --- | --- | --- | --- | --- | --- |
+| Laptop | Lenovo ThinkPad X1 Yoga Gen 6 | Arch Linux | 2.8 GHz Intel Core i5-1135G7 | Intel Iris Xe | 8 GB | 2022-05-11 to 2022-05-18 (defective) |
 | Console | Nintendo Switch (unpatched) | Quad-boot Horizon OS, Atmosphère, Ubuntu, LineageOS | 1.02 GHz ARM Cortex-A57 | 768 MHz Nvidia GM20B | 4 GB | 2020-03-03 to 2022-06-10 |
 | Phone | Apple iPhone 6S | Jailbroken iOS | 1.85 GHz ARMv8-A Twister | 650 MHz PowerVR Series7XT | 2 GB | 2020 to 2022-03-19 |
 | Console | Nintendo Wii U | Haxchi | 1.24 GHz IBM PowerPC Espresso | 550 MHz AMD Radeon-based Latte | 2 GB | 2019-07 to 2022-02-15 |
