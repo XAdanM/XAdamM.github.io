@@ -40,9 +40,11 @@ type: page
 "In China, programs have to be certified by the government in order to be used on computers there, which sounds an awful lot like the Apple store."  
 \- Bruce Schneier
 
-Against the average user, anything works; there's no need for complex security software. Against the skilled attacker, on the other hand, nothing works.  
+"Against the average user, anything works; there's no need for complex security software. Against the skilled attacker, on the other hand, nothing works."  
 \- Bruce Schneier
 
-As someone once said, "Just because you're not interested in politics does not mean that politics won't be interested in you." And staying away from politics either because you think tech will make laws irrelevant or because there's no good way to influence laws just opens the field for people who don't cherish either of those illusions to make things very bad indeed.  
+"As someone once said, "Just because you're not interested in politics does not mean that politics won't be interested in you." And staying away from politics either because you think tech will make laws irrelevant or because there's no good way to influence laws just opens the field for people who don't cherish either of those illusions to make things very bad indeed."  
 \- Cory Doctorow
 
+"Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime."  
+\- Francesco Napoletano
