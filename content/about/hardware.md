@@ -9,7 +9,7 @@ type: page
 | --- | --- | --- | --- | --- | --- | --- |
 | Laptop | Lenovo ThinkPad X1 Yoga Gen 6 | Arch Linux | 2.8 GHz Intel Core i5-1135G7 | Intel Iris Xe | 16 GB | 2022-05-18 to now |
 | Phone | Google Pixel 6 | GrapheneOS | Octa-core, (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55) | Mali-G78 MP20 | 8 GB | 2022-03-19 to now |
-| Desktop, Workstation, Server | [exozyme](exozy.me) | Arch Linux | 3.7 GHz AMD Ryzen 9 5900X | 1968 MHz AMD Radeon RX 6600 XT | 32 GB | 2021-03-27 to now |
+| Desktop, Workstation, Server | [exozyme](https://exozy.me) | Arch Linux | 3.7 GHz AMD Ryzen 9 5900X | 1968 MHz AMD Radeon RX 6600 XT | 32 GB | 2021-03-27 to now |
 | Calculator | TI-Nspire CX CAS (rev v) | Ndless | 132 MHz ARM9-26EJ-S | None | 64 MB | 2017-05 to now |
 
 ## Retired
