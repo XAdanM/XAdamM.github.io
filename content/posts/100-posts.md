@@ -13,4 +13,4 @@ Now you're probably thinking, there are way less than 100 posts published on thi
 
 However, I use the command `ls content/posts | wc -l` to count my number of posts, which just so happens to include drafts and unpublished stuff as well. There probably isn't anything worth reading among all those drafts, and some of them are from my old blog or old old blog or old old old blog that I unpublished because the didn't quite hit the mark in terms of quality.
 
-Anyways, the next milestone's at 128 posts, right?
+Anyways, the next milestone's at 128 posts, right? 😃
