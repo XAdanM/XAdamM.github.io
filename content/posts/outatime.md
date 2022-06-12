@@ -3,7 +3,7 @@ title: "OUTATIME"
 date: 2022-06-11T21:54:31-05:00
 draft: true
 description: "Where's all of my time going?"
-type: post
+type: "post"
 tags: ["life", "time", "procrastination"]
 ---
 
