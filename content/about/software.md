@@ -16,7 +16,7 @@ type: page
 
 - **Web browser**: Firefox
 
-- **Text editor**: [Micro](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/micro/settings.json), [Vim](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.vimrc), [Code - OSS](https://stackoverflow.com/questions/53867739/differences-between-code-oss-and-visual-studio-code)
+- **Text editor**: [Micro](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/micro/settings.json), [Vim](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.vimrc), [Code - OSS](https://stackoverflow.com/questions/53867739/differences-between-code-oss-and-visual-studio-code), code-server
 
 - **Office**: [Nextcloud](https://cloud.exozy.me)
 
