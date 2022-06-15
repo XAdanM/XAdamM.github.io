@@ -19,7 +19,7 @@ Now that was insane! My Mastodon account is normally pretty low-traffic, but one
 
 Even though this was an important milestone, things weren't that great under the surface though. The code quality? 🤢 No integration tests, no UI for federated following, and best of all, federated following only worked for users on the same instance, which kind of defeats the point of federated following. Don't even think about federating with Mastodon...
 
-An even bigger obstacle loomed ahead though. [Go-Fed] is *quite* the complicated library and its binary size comes out to be a whooping 20MB, or a quarter of Gitea's current binary size. So yeah, Go-Fed isn't the nicest or leanest library out there, and we couldn't go on with using it for Gitea (although other projects like Owncast and WriteFreely have went ahead and stomached the extra 20MB).
+An even bigger obstacle loomed ahead though. [Go-Fed] is *quite* the complicated library and its binary size comes out to be a whooping 20MB, or a quarter of Gitea's current binary size. So yeah, Go-Fed isn't the nicest or leanest library out there, and we couldn't go on with using it for Gitea (although other projects like Owncast and WriteFreely have gone ahead and stomached the extra 20MB).
 
 During May, I was also busy with other things, so my Gitea federation work went on hiatus for a while... until we realized that there's actually another Go ActivityPub library, [go-ap](https://github.com/go-ap) out there mostly under the radar! It's at a much earlier stage of development than Go-Fed, but manages to squeeze the same functionality in 5% the binary size of Go-Fed. Yeah, that's right, 5%!
 
@@ -37,7 +37,9 @@ Almost all ActivityPub implementations use HTTP signatures so you know that inco
 
 Very long story very short, Mastodon was rejecting Gitea's signatures because Mastodon wants dates in GMT instead of UTC and silently fails otherwise (unless you throw in a gazillion print statements like I did), and Gitea was rejecting Mastodon's signatures because nginx was rewriting the Host header when reverse-proxying. It sounds like two tiny details, but that took way too long to debug.
 
-So again, [another one of my fediverse posts](https://social.exozy.me/@ta180m/108472185098129371) got a whole bunch of reposts and likes, but I think it's actually deserved this time (and not the first time 😃). Why? Because Gitea has actually, seriously, really joined the fediverse! You can view my Gitea account rendered on your Mastodon instance, you can follow it, and you'll soon even be able to receive notifications when I do a Git push!
+So again, [another one of my fediverse posts](https://social.exozy.me/@ta180m/108472185098129371) got a whole bunch of reposts and likes, but I think it's actually deserved this time (and not the first time 😃).
+
+Why? Because Gitea has actually, seriously, really joined the fediverse! You can view my Gitea account rendered on your Mastodon instance, you can follow it, and you'll soon even be able to receive notifications when I do a Git push!
 
 This isn't some hacky incomplete highly-limited implementation using a bloated Go ActivityPub library that desperately needs to go on diet. This is the real thing.
 
