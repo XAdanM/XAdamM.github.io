@@ -55,4 +55,4 @@ Anyways, after federated starring and the remote interactions UI are implemented
 
 You can read more about federated following at this [draft PR](https://gitea.com/Ta180m/gitea/pulls/6) if you like gory technical details.
 
-And since I get asked this a ton, these federated features like federated following are (obviously) not in Gitea right now, but will probably be released in Gitea 1.18 in October. Only four more months of waiting!
+And since I get asked this a ton, these federated features like federated following are (obviously) not in Gitea right now, but will probably be released in Gitea 1.18 in October. Only four more months of waiting! (I guess you could also try compiling [my code](https://gitea.com/Ta180m/gitea) and running it for your Gitea instance, but I highly don't recommend it since it might cause damage to your Gitea database.)
