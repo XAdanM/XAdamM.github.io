@@ -20,11 +20,11 @@ type: page
 | Phone | Apple iPhone 6S | Jailbroken iOS | 1.85 GHz ARMv8-A Twister | 650 MHz PowerVR Series7XT | 2 GB | 2020 to 2022-03-19 |
 | Console | Nintendo Wii U | Haxchi | 1.24 GHz IBM PowerPC Espresso | 550 MHz AMD Radeon-based Latte | 2 GB | 2019-07 to 2022-02-15 |
 | Laptop | MacBook Air (13-inch, 2017) | macOS | 1.8 GHz Intel Core i5-5350 | Intel HD Graphics 6000 | 8 GB | 2018-09 to 2022-05-13 (school property) |
-| Calculator | TI-84 Plus CE | Cesium | 48 MHz Zilog eZ80 | None | 4 MB | 2018-05 to now |
+| Calculator | TI-84 Plus CE | Cesium | 48 MHz Zilog eZ80 | None | 4 MB | 2018-05 to 2019 |
 | Tablet | iPad Mini 4 | iOS | 1.5GHz ARMv8-A Typhoon | PowerVR GX6450 | 2 GB | 2017-08 to 2018-05 (school property) |
 | Phone | Apple iPhone 4S | Jailbroken iOS | 1.0 GHz ARM Cortex-A9 | 200 MHz PowerVR SGX543MP2 | 512 MB | 2017 |
 | Laptop | Lenovo ThinkPad Yoga 14 Signature Edition | Arch Linux | 2.3 GHz Intel Core i5-6200U | Intel HD Graphics 520, Nvidia GeForce 940M | 8 GB | 2016-08 to 2022-05-08 |
-| Calculator | TI-Nspire CX CAS (rev w) | Ndless | 132 MHz ARM9-26EJ-S | None | 64 MB | 2016-04 to now |
+| Calculator | TI-Nspire CX CAS (rev w) | Ndless | 132 MHz ARM9-26EJ-S | None | 64 MB | 2017-04 to 2019 |
 | Calculator | TI-84 Plus SE | TI-OS | 15 MHz Zilog Z80 | None | 128 KB | 2014 to 2021 |
-| Console | Nintendo Wii | Homebrew Channel | 729 MHz IBM PowerPC Broadway | 243 MHz ATI Hollywood | 88 MB | 2010 to now |
-| Console | Nintendo DSi | hiyaCFW | 133 MHz ARM9 | None | 16 MB | 2009 to now |
+| Console | Nintendo Wii | Homebrew Channel | 729 MHz IBM PowerPC Broadway | 243 MHz ATI Hollywood | 88 MB | 2010 to 2021 |
+| Console | Nintendo DSi | hiyaCFW | 133 MHz ARM9 | None | 16 MB | 2009 to 2020 |
