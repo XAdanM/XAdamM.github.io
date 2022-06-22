@@ -20,4 +20,4 @@ type: page
 
 - [Idiot Code-Golf](https://git.exozy.me/Ta180m/Idiot-Code-Golf): Really stupid code competition
 
-- [LCS Resources](https://github.com/LadueCS/Presentations/tree/main/Competitive%20Programming): Ladue Computer Science resources for competitive programming
+- [LCS Resources](https://codeberg.org/LadueCS/Presentations/src/branch/main/Competitive%20Programming): Ladue Computer Science resources for competitive programming
