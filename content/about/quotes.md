@@ -48,3 +48,6 @@ type: page
 
 "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime."  
 \- Francesco Napoletano
+
+"And a computer nerd therefore is somebody who uses a computer in order to use a computer."  
+\- Douglas Adams
