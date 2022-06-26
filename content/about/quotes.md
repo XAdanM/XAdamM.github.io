@@ -52,5 +52,8 @@ type: page
 "And a computer nerd therefore is somebody who uses a computer in order to use a computer."  
 \- Douglas Adams
 
-"We are stuck with technology when what we really want is just stuff that works."
+"We are stuck with technology when what we really want is just stuff that works."  
 \- Douglas Adams
+
+"Irrationality is the square root of all evil."  
+\- Douglas Hofstadter
