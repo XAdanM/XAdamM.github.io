@@ -4,11 +4,11 @@ type: page
 ---
 
 
-- **Operating System**: Arch Linux
+- **Operating System**: [Arch Linux](/posts/totally-reproducible-arch/)
 
 - **Desktop environment**: [KDE Plasma](https://www.dedoimedo.com/computers/plasma-desktop-awesome.html)
 
-- **Shell**: Fish
+- **Shell**: [Fish](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/fish/fish_variables)
 
 - **Terminal**: Konsole
 
@@ -16,7 +16,7 @@ type: page
 
 - **Web browser**: Firefox
 
-- **Text editor**: [Micro](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/micro/settings.json), [Vim](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.vimrc), [Code - OSS](https://stackoverflow.com/questions/53867739/differences-between-code-oss-and-visual-studio-code), code-server
+- **Text editor**: [Micro](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/micro/settings.json), [Vim](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.vimrc), [code-server](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/Code%20-%20OSS/User/settings.json)
 
 - **Office**: [Nextcloud](https://cloud.exozy.me)
 
