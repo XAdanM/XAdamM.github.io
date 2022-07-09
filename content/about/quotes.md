@@ -67,7 +67,7 @@ type: page
 "Most days I wake up thinking I'm the luckiest bastard alive."  
 \- Linus Torvalds
 
-"I am a lazy person, which is why I like open source, for other people to do work for me."
+"I am a lazy person, which is why I like open source, for other people to do work for me."  
 \- Linus Torvalds
 
 "Portability is for people who cannot write new programs."  
