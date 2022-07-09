@@ -57,3 +57,13 @@ type: page
 
 "Irrationality is the square root of all evil."  
 \- Douglas Hofstadter
+
+"Talk is cheap. Show me the code."  
+\- Linus Torvalds
+
+"Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect."  
+\- Linus Torvalds
+
+"Most days I wake up thinking I'm the luckiest bastard alive."
+\- Linus Torvalds
+
