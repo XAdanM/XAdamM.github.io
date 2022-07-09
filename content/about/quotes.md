@@ -64,6 +64,17 @@ type: page
 "Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect."  
 \- Linus Torvalds
 
-"Most days I wake up thinking I'm the luckiest bastard alive."
+"Most days I wake up thinking I'm the luckiest bastard alive."  
 \- Linus Torvalds
 
+"I am a lazy person, which is why I like open source, for other people to do work for me."
+\- Linus Torvalds
+
+"Portability is for people who cannot write new programs."  
+\- Linus Torvalds
+
+"Only wimps use tape backup: real men just upload their important stuff on ftp, and let the rest of the world mirror it ;)"  
+\- Linus Torvalds
+
+"I'd like to say that I knew this would happen, that it's all part of the plan for world domination."  
+\- Linus Torvalds
