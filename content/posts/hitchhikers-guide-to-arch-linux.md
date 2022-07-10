@@ -7,7 +7,7 @@ tags: ["humor", "fiction", "story", "arch", "linux", "fun"]
 ---
 
 
-*This is a work of fiction. Any resemblance to actual events or locales or persons, living or dead, is not coincidental and you should sue me.*
+*This is a work of fiction. Any resemblance to actual events or locales or persons, living or dead, is not coincidental and you should sue me. The characters are based off of those in [Intro to Python](https://codeberg.org/LadueCS/Intro-to-Python).*
 
 
 There are 10 kinds of people in the world. Those who know binary, and nine kinds of people that don't. Bobert Wender is one of those nine kinds, specifically the "I totally know binary cause it's just a series of ones and zeros and it's what computers speak and—wait, what's a base again?" kind of person. He's the kind of person who knows exactly what he's doing, until he doesn't, at which point disaster strikes.
