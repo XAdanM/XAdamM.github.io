@@ -58,7 +58,7 @@ I'm also wrong.
 
 I kinda lied that this isn't Lalani's story, because it is a story about her, but just not that one. Billiam also put that lie on his college application, because a college application without a few lies is not a true college application.
 
-Anyways, the book is called *How to Hack* and contains all the step you need to become a script kiddy. When Bobert discovered it in Mr. FFFFFF's room his first year of high school, he took it out on permanent loan and didn't return it until some other hardcore fan of the book at LHWHS commented on one of Bobert's hacking flex YouTube videos a Batch script that Bobert blindly pasted into notepad.exe and ran it in PowerShell. Bobert always knows exactly what he's doing.
+Anyways, the book is called *How to Hack* and contains all the step you need to become a script kiddy. When Bobert discovered it in Mr. FFFFFF's room his first year of high school, he took it out on permanent loan and didn't return it until some other hardcore fan of the book at LHWHSCSC commented on one of Bobert's hacking flex YouTube videos a Batch script that Bobert blindly pasted into notepad.exe and ran it in PowerShell. Bobert always knows exactly what he's doing.
 
 Today is Out of Touch Thursday (if you computer's clock says otherwise, it's wrong and you should set it to Thursday), and that means a LHWHSCSC meeting!
 
