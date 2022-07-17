@@ -4,7 +4,7 @@ type: page
 ---
 
 
-a sentient dodecahedron.
+*a sentient dodecahedron.
 
 learning.
 
@@ -56,7 +56,7 @@ running [docker inside docker inside docker inside docker](https://git.exozy.me/
 
 3
 
-2
+destroying GitHub.
 
 getting roasted for my terrible [software stack](software).
 
@@ -66,11 +66,11 @@ amazed that special patterns in my biological neural networks transcribed into U
 
 2
 
-8
+(this line is reserved for future bug fixes).
 
 paralyzed by the infinite possibilities for each day.
 
 atrocious at writing poetry.
 
-pi.
+pi.*
 
