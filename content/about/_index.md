@@ -4,7 +4,7 @@ type: page
 ---
 
 
-*a sentient dodecahedron.
+a sentient dodecahedron.
 
 learning.
 
@@ -12,7 +12,7 @@ sleeping with 1/3 probability.
 
 [coding](/projects).
 
-5
+idk what to put here.
 
 enjoying my life in St. Louis, Misery (er... Missouri).
 
@@ -50,21 +50,21 @@ trying to figure out what exactly I should do with my copy of *Free Software, Fr
 
 making Python segfault.
 
-3
+fork bombing myself.
 
 running [docker inside docker inside docker inside docker](https://git.exozy.me/Ta180m/Arch-All-the-Way-Down).
 
-3
+doing math unironically.
 
 destroying GitHub.
 
 getting roasted for my terrible [software stack](software).
 
-9
+seeding this website with tons of secret easter eggs.
 
 amazed that special patterns in my biological neural networks transcribed into UTF-8 encoded strings in Markdown documents converted into HTML by [Hugo](https://gohugo.io) with the [Gokarna theme](https://github.com/526avijitgupta/gokarna) deployed to [exozyme](https://exozy.me) using [Woodpecker CI](https://woodpecker-ci.org) transmitted over HTTP and displayed on your screen have now created special patterns in your biological neural networks.
 
-2
+still alive.
 
 (this line is reserved for future bug fixes).
 
@@ -72,5 +72,5 @@ paralyzed by the infinite possibilities for each day.
 
 atrocious at writing poetry.
 
-pi.*
+pi.
 
