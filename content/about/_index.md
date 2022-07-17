@@ -4,38 +4,73 @@ type: page
 ---
 
 
-Hi! I'm Anthony Wang, some random math and CS enthusiast from St. Louis, Misery (er, I meant Missouri).
+a sentient dodecahedron.
 
-Here are some useless facts about me that you definitely didn't know before reading this:
+learning.
 
-- I've had [five](https://artofproblemsolving.com/community/c726379) [blogs](https://git.exozy.me/Ta180m/blog) and six email addresses over the past few years. I wasted a few hours copying every blog post I ever wrote to this website, but the older posts use BBCode and I was too tired to convert them to Markdown.
+sleeping with 1/3 probability.
 
-- I have the book *Free Software, Free Society* (first edition) autographed by the infamous Richard Stallman himself.
+[coding](/projects).
 
-- I love [breaking Arch Linux machines](/posts/installing-every-arch-package/) and hate running my [Arch Linux server](https://exozy.me).
+5
 
-- I enjoy violating the [Discord](/posts/dont-use-discord/) TOS every day.
+enjoying my life in St. Louis, Misery (er... Missouri).
 
-- Obviously, some people abhor my writing style.
+crafting [dodecahedra](/projects/dodecahedra).
 
-- I'm currently exploring federated and decentralized systems and developing ActivityPub federation for [Gitea](https://gitea.com/Ta180m/gitea).
+[wasting time](games) the most efficient way possible.
 
-- I'm sleeping right now with 1/3 probability.
+trying to master [algorithmic wizardry](/projects/competitive-programming).
 
-- I wasted an hour messing with the MIT Kerberos registration website to get around the frontend's limitation of 3 character usernames, and registered the aesthetically perfect username of `xy`.
+building a [community](https://exozy.me).
 
-If you'd like to waste your time too, here are some more black holes to get sucked into.
+violating the [Discord](/posts/dont-use-discord/) TOS daily. 
 
-- [Books I like](books)
+pretending like I know [$SOME_RANDOM_PROGRAMMING_LANGUAGE](languages).
 
-- [Games I like](games)
+trying to find time to actually read real [books](books).
 
-- [Hardware I use](hardware)
+making Gitea instances [talk to each other](https://nlnet.nl/project/Gitea/).
 
-- [Languages I know](languages)
+creating a compilation of hilariously useless (and fun!) [quotes](quotes).
 
-- [Software I use](software)
+trapped inside [vim](https://www.reddit.com/r/archlinux/comments/hssui9/comment/fych9dq/).
 
-- [Quotes I like](quotes)
+spending hours [copying posts from my five previous blogs](https://git.exozy.me/Ta180m/website/issues/1) to this website and too tired to convert the crappy BBCode posts to Markdown.
 
-And if you reading this, that means that special patterns in my biological neural networks transcribed into UTF-8 encoded strings contained within Markdown documents converted into HTML and CSS by [Hugo](https://gohugo.io) with the [Gokarna theme](https://github.com/526avijitgupta/gokarna) deployed to [exozyme](https://exozy.me) using [Woodpecker CI](https://woodpecker-ci.org) transmitted to your machine over HTTP and rendered and displayed on your screen have now created special patterns in your biological neural networks. Awesome, telepathy!
+permanently incapable of [drawing](https://codeberg.org/LadueCS/pages/src/branch/main/img/mascot) just about anything whatsoever.
+
+faithfully cataloguing my [horde](hardware).
+
+training neural networks to [vomit garbage](https://social.exozy.me/@ebooks/).
+
+trying to figure out what exactly I should do with my copy of *Free Software, Free Society* (first edition) autographed by the infamous Richard Stallman himself.
+
+[breaking Arch Linux machines](/posts/installing-every-arch-package/).
+
+making Python segfault.
+
+3
+
+running [docker inside docker inside docker inside docker](https://git.exozy.me/Ta180m/Arch-All-the-Way-Down).
+
+3
+
+2
+
+getting roasted for my terrible [software stack](software).
+
+9
+
+amazed that special patterns in my biological neural networks transcribed into UTF-8 encoded strings in Markdown documents converted into HTML by [Hugo](https://gohugo.io) with the [Gokarna theme](https://github.com/526avijitgupta/gokarna) deployed to [exozyme](https://exozy.me) using [Woodpecker CI](https://woodpecker-ci.org) transmitted over HTTP and displayed on your screen have now created special patterns in your biological neural networks.
+
+2
+
+8
+
+paralyzed by the infinite possibilities for each day.
+
+atrocious at writing poetry.
+
+pi.
+
