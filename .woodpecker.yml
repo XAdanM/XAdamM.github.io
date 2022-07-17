@@ -18,3 +18,4 @@ pipeline:
     commands:
       - cd /var/lib/woodpecker-agent/Ta180m/website
       - hugo --minify --destination /srv/http/pages/ta180m
+      - echo "you found it!" > /srv/http/pages/ta180m/holy-grail
