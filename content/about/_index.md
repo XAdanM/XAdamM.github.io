@@ -12,7 +12,7 @@ sleeping with 1/3 probability.
 
 [coding](/projects).
 
-idk what to put here.
+(idk what to put here).
 
 enjoying my life in St. Louis, Misery (er... Missouri).
 
