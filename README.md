@@ -1,2 +1,2 @@
-# Website
+# website
 Some random website
