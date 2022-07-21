@@ -1,6 +1,7 @@
 ---
 title: "Random Tidbits"
 date: 2020-10-28
+draft: true
 type: "post"
 tags: ["Random", "Linux"]
 ---

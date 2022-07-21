@@ -1,6 +1,7 @@
 ---
 title: "Matrix: Less Degenerate than Discord?"
 date: 2021-04-22
+draft: true
 type: "post"
 tags: ["Linux"]
 ---

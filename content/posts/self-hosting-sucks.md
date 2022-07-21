@@ -1,6 +1,7 @@
 ---
 title: "Self-hosting Sucks"
 date: 2021-05-05
+draft: true
 type: "post"
 tags: ["Linux", "Rant"]
 ---

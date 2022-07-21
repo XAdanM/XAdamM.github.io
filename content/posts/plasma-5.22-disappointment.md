@@ -1,6 +1,7 @@
 ---
 title: "Plasma 5.22 is a Disappointment"
 date: 2021-06-08
+draft: true
 type: "post"
 tags: ["Linux", "KDE", "Rant"]
 ---

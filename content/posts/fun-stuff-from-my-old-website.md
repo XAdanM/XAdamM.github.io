@@ -1,6 +1,7 @@
 ---
 title: "Fun Stuff From My Old Website"
 date: 2022-01-13T21:38:53-06:00
+draft: true
 description: "Some fun stuff I discovered while digging around in my old website's source code"
 type: "post"
 tags: ["rant", "humor", "fun", "life"]

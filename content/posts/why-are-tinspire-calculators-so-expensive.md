@@ -1,6 +1,7 @@
 ---
 title: "Why are TI-Nspire Calculators So Expensive?"
 date: 2019-04-12T08:27:00
+draft: true
 type: "post"
 ---
 

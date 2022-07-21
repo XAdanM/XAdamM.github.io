@@ -1,6 +1,7 @@
 ---
 title: "An Interview with GitHub Copilot"
 date: 2021-07-17
+draft: true
 type: "post"
 tags: ["Machine learning", "Linux", "Windows"]
 ---

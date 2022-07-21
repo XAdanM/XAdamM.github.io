@@ -1,6 +1,7 @@
 ﻿---
 title: "How Windows Update Saved My Computer from... Windows Update"
 date: 2021-01-06
+draft: true
 type: "post"
 tags: ["Windows", "WSL"]
 ---

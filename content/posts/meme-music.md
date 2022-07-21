@@ -1,6 +1,7 @@
 ---
 title: "Meme Music"
 date: 2022-06-08T20:51:40-05:00
+draft: true
 description: "Two really bad songs I wrote, enjoy!"
 type: "post"
 tags: ["meme", "humor", "music"]

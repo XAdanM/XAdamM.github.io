@@ -1,6 +1,7 @@
 ---
 title: "gpSP-Nspire: Gameboy Advance Emulator"
 date: 2018-09-18T10:14:00
+draft: true
 type: "post"
 ---
 

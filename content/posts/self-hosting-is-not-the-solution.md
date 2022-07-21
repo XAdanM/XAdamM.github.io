@@ -1,6 +1,7 @@
 ---
 title: "Why Self-hosting is not the Solution"
 date: 2021-04-08
+draft: true
 type: "post"
 tags: ["Linux", "Society"]
 ---

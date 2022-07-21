@@ -1,6 +1,7 @@
 ---
 title: "Does Windows Really Suck?"
 date: 2021-05-28
+draft: true
 type: "post"
 tags: ["Linux", "Windows"]
 ---

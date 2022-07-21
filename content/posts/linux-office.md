@@ -1,6 +1,7 @@
 ---
 title: "The Linux Office?"
 date: 2020-12-25
+draft: true
 type: "post"
 tags: ["Linux", "Windows"]
 ---
