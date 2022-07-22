@@ -84,3 +84,6 @@ type: page
 
 "There's *real* poetry in the *real* world. Science is the poetry of reality."\
 \- Richard Dawkins
+
+"I like quoting Einstein. Know why? Because nobody dares contradict you."\
+\- Studs Terkel
