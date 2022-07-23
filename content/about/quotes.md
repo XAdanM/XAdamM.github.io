@@ -87,3 +87,6 @@ type: page
 
 "I like quoting Einstein. Know why? Because nobody dares contradict you."\
 \- Studs Terkel
+
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."\
+\- Martin Fowler
