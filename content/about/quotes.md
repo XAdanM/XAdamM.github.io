@@ -90,3 +90,6 @@ type: page
 
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."\
 \- Martin Fowler
+
+"Why is "abbreviation" such a long word?"\
+\- Anonymous
