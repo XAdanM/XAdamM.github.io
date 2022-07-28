@@ -93,3 +93,6 @@ type: page
 
 "Why is "abbreviation" such a long word?"\
 \- Anonymous
+
+"I have no special talents. I am only passionately curious."\
+\- Albert Einstein
