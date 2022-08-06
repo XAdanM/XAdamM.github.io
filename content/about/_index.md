@@ -72,5 +72,5 @@ paralyzed by the infinite possibilities for each day.
 
 atrocious at writing poetry.
 
-pi.
+[pi](https://tauday.com).
 
