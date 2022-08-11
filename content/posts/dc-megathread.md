@@ -27,7 +27,7 @@ While we were walking to the restaurant, we saw a girl with a nice hat (accordin
 
 And finally for my favorite weird thing from the whole trip:
 
-![Squirrel assault](https://cloud.exozy.me/s/CdaHAGPBwaErkED/download/VID_20220806_192547.mp4)
+<video src="https://cloud.exozy.me/s/CdaHAGPBwaErkED/download/VID_20220806_192547.mp4"></video>
 
 On the way back, we stopped by the White House, or as close as possible that we could get to the White House, and there was a huge assortment of various protesters. Some of them sang the Ukrainian national anthem. Some of them held up signs saying "disband NATO". Some of them were actually confused tourists interspaced among the protesters. There was a guy pretending to do archery towards the White House. There was a dude who kept on yelling about Jesus and sounded like he was doing slam poetry. Anyways, it was hella chaotic so we went back to our hotel and I failed to fall asleep as usual for a while.
 
