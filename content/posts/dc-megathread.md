@@ -25,11 +25,7 @@ We were all pretty hungry at this point, so we collectively decided not to go to
 
 While we were walking to the restaurant, we saw a girl with a nice hat (according to smolshep, I think all hats look the same). At the restaurant, I told smolshep that the girl sitting at another table looked awfully similar to the one wearing the hat, except that she had now taken off the hat, to which smolshep replied that that girl in the restaurant couldn't possibly be the one from earlier with the hat, which caused me to be awfully confused since I thought smolshep actually knew what they were talking about, but they were also awfully confused so we just sat there awfully confused eating spicy rice noodles until I finally realized that the girl in the restaurant was precisely the one that had been wearing a hat earlier, and thus ended an awfully confusing runon sentence.
 
-And finally for my favorite weird thing from the whole trip:
-
-{{< rawhtml >}}
-<video src="https://cloud.exozy.me/s/CdaHAGPBwaErkED/download/VID_20220806_192547.mp4"></video>
-{{< /rawhtml >}}
+And finally for my favorite weird thing from the whole trip: https://cloud.exozy.me/s/CdaHAGPBwaErkED
 
 On the way back, we stopped by the White House, or as close as possible that we could get to the White House, and there was a huge assortment of various protesters. Some of them sang the Ukrainian national anthem. Some of them held up signs saying "disband NATO". Some of them were actually confused tourists interspaced among the protesters. There was a guy pretending to do archery towards the White House. There was a dude who kept on yelling about Jesus and sounded like he was doing slam poetry. Anyways, it was hella chaotic so we went back to our hotel and I failed to fall asleep as usual for a while.
 
