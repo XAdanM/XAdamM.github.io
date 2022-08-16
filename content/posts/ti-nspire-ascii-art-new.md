@@ -10,7 +10,7 @@ type: "post"
 
 Below is an [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) rendition of the TI-Nspire CX CAS graphing calculator.
 
-![ASCII art Nspire](/img/ascii-nspire.png)![Real Nspire](/img/real-nspire.jpg)
+![A comparison](/img/nspire.png)
 
 ```
 .-------------------------------------------------,
