@@ -8,18 +8,14 @@ Some random projects. More random projects on my [Gitea instance](https://git.ex
 
 - [Dodecahedra](dodecahedra)
 
+- [Fediverse](fediverse)
+
+- [Machine Learning](machine-learning)
+
 - [Competitive Programming](competitive-programming)
 
 - [Homebrew](homebrew)
 
-- [Machine Learning](machine-learning)
-
-- [Fediverse](fediverse)
-
 - [exozyme](https://exozy.me)
 
 - [Ladue Computer Science](https://laduecs.club)
-
-- [Phonica](https://www.phonica.org)
-
-- [howtuwu!](https://howtuwu.exozy.me)
