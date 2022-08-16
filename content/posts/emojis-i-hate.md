@@ -39,7 +39,7 @@ I think we all hate these bugs.
 
 ## 🎉🎆🌧️❄️👾
 
-Sending all of these emojis at the same time causes [Element](https://element.io/) to glitch out insanely, which I love and would be horrified if they removed this wonderful feature.
+How to identify [Element](https://element.io/) users: send all these emojis simultaneously, then wait for people to scream about their Matrix client glitching out insanely. I love this wonderful feature and would be horrified if they removed it.
 
 An interesting sidenote: [emojis are surprisingly complicated](https://tonsky.me/blog/emoji/).
 
