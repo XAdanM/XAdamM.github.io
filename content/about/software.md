@@ -8,7 +8,7 @@ type: page
 
 - **Desktop environment**: [KDE Plasma](https://www.dedoimedo.com/computers/plasma-desktop-awesome.html)
 
-- **Shell**: [Fish](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/fish/fish_variables)
+- **Shell**: [Fish](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/fish/fish_variables)
 
 - **Terminal**: Konsole
 
@@ -16,11 +16,9 @@ type: page
 
 - **Web browser**: Firefox
 
-- **Text editor**: [Micro](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/micro/settings.json), [Vim](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.vimrc), [code-server](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/.config/Code%20-%20OSS/User/settings.json)
+- **Text editor**: [Micro](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/micro), Neovim, [code-server](https://git.exozy.me/Ta180m/dotfiles/src/branch/main/Code%20-%20OSS/User/settings.json)
 
 - **Office**: [Nextcloud](https://cloud.exozy.me)
-
-- **Notes**: Xournal++, [Nextcloud Notes](https://cloud.exozy.me/apps/notes/)
 
 - **Chat**: [Element](https://cloud.exozy.me/apps/riotchat/)
 
