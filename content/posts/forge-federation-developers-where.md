@@ -21,7 +21,7 @@ So given the urgency and seriousness of the problem, why are fewer people workin
 
 To put it bluntly, the learning curve looks like it's the size of the Himalayas. There's the ActivityPub spec that [sounds like mumbo-jumbo](https://social.exozy.me/@ta180m/108601991859976777) the first time you read it. (But I promise, it makes perfect sense after you read it enough times.) There's ForgeFed which adds a whole bunch of new types and behavior on top of ActivityPub. It's even difficult for newcomers to keep track of all the similarly named projects like ForgeFed, ForgeFlux (formerly forgefed.io for more confusion), ForgeFriends, the ForgeFed implementation in Gitea, and the Friendly Forge Format.
 
-However, not all hope is lost! If you just want to help out a bit with, say, the Gitea federation UI, you don't need to understand much ActivityPub. Plenty of the tasks on the [Gitea task list](https://gitea.com/Ta180m/gitea/issues/3) are actually quite approachable! There's also the [useful links](https://gitea.com/Ta180m/gitea/wiki/Useful-links) page which is frequently updated and might be helpful when getting started.
+However, not all hope is lost! If you just want to help out a bit with, say, the Gitea federation UI, you don't need to understand much ActivityPub. Plenty of the tasks on the [Gitea task list](https://gitea.com/xy/gitea/issues/3) are actually quite approachable! There's also the [useful links](https://gitea.com/xy/gitea/wiki/Useful-links) page which is frequently updated and might be helpful when getting started.
 
 ## Everyone thought ForgeFed was dead for a long time
 
@@ -31,7 +31,7 @@ Thankfully, all of this has been resolved and ForgeFed is back rolling again on 
 
 ## The road ahead
 
-If I've now piqued your interest in contributing to forge federation, what does the road ahead look like? I'm going to focus specifically on Gitea federation here since that's my area of expertise, but there are plenty of other forge federation projects to contribute to. The following list is basically a summary of the items on the [task list](https://gitea.com/Ta180m/gitea/issues/3).
+If I've now piqued your interest in contributing to forge federation, what does the road ahead look like? I'm going to focus specifically on Gitea federation here since that's my area of expertise, but there are plenty of other forge federation projects to contribute to. The following list is basically a summary of the items on the [task list](https://gitea.com/xy/gitea/issues/3).
 
 ### Starring
 

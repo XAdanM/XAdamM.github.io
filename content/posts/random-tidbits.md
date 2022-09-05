@@ -7,7 +7,7 @@ tags: ["Random", "Linux"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-10-28-random-tidbits.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-10-28-random-tidbits.md)*
 
 
 ## Play videos in your terminal!

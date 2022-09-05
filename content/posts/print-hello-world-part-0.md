@@ -7,7 +7,7 @@ tags: ["Programming"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-09-01-print-hello-world-part-0.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-09-01-print-hello-world-part-0.md)*
 
 
 > *Your first podcast will be awful  

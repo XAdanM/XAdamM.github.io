@@ -6,7 +6,7 @@ tags: ["Random", "Linux"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-12-24-best-cli-tools.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-12-24-best-cli-tools.md)*
 
 
 # `tldr`

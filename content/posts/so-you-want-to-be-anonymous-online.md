@@ -7,7 +7,7 @@ tags: ["Web"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2021-04-23-so-you-want-to-be-anonymous-online.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2021-04-23-so-you-want-to-be-anonymous-online.md)*
 
 
 Let's get started! The first thing to understand is that this goal is **impossible**.

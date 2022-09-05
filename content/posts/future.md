@@ -7,7 +7,7 @@ tags: ["Meta"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-10-05-future.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-10-05-future.md)*
 
 
 Unfortunately, one of the recurring themes of this blog has been missed deadlines. I'm always saying, I'm going to finish this new post by this day, but when the day comes, it's almost always been pushed back. And I've concluded that the main reason is my goal for the quality of this blog is too high.

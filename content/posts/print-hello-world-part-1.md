@@ -7,7 +7,7 @@ tags: ["Programming"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-09-17-print-hello-world-part-1.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-09-17-print-hello-world-part-1.md)*
 
 
 > *“C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.”*

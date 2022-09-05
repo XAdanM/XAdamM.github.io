@@ -4,9 +4,9 @@ type: page
 ---
 
 
-- [ebooks](https://git.exozy.me/Ta180m/ebooks): Fediverse ebooks bot using neural networks
+- [ebooks](https://git.exozy.me/a/ebooks): Fediverse ebooks bot using neural networks
 
-- [Gitea federation](https://gitea.com/Ta180m/gitea): ActivityPub federation for Gitea
+- [Gitea federation](https://gitea.com/xy/gitea): ActivityPub federation for Gitea
 
 - [ForgeFed](https://forgefed.org/): ActivityPub-based forge federation protocol
 

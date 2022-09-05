@@ -7,7 +7,7 @@ tags: ["Programming"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-09-29-print-hello-world-part-3.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-09-29-print-hello-world-part-3.md)*
 
 
 > *If Java had true garbage collection, most programs would delete themselves upon execution.*

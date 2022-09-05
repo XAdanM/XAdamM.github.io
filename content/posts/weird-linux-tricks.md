@@ -7,7 +7,7 @@ tags: ["Random", "Linux"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-12-23-weird-linux-tricks.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-12-23-weird-linux-tricks.md)*
 
 
 ## Impress your friends with one weird trick!

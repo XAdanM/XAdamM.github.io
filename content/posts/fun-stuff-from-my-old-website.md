@@ -8,7 +8,7 @@ tags: ["rant", "humor", "fun", "life"]
 ---
 
 
-I discovered this gem in my [old website's source code](https://git.exozy.me/Ta180m/website/src/commit/d509629df6ab9aea7eb50158dcb765d33291bcfe/fun/hate/index.html) and it's awesome. I'm not sure why it never got published, since it obviously deserves it!
+I discovered this gem in my [old website's source code](https://git.exozy.me/a/website/src/commit/d509629df6ab9aea7eb50158dcb765d33291bcfe/fun/hate/index.html) and it's awesome. I'm not sure why it never got published, since it obviously deserves it!
 
 ## A semi-serious humorous list of things I hate
 

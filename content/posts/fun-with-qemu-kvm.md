@@ -7,7 +7,7 @@ tags: ["Linux", "macOS", "Virtualization"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-11-18-fun-with-qemu-kvm.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-11-18-fun-with-qemu-kvm.md)*
 
 
 For many people, "virtual machine" is effectively synonymous with VirtualBox or VMWare or perhaps Hyper-V. But for us Linux users, there is actually another alternative. You may have heard of QEMU before, but it's an emulator and therefore much slower than hypervisors like VirtualBox. However, by using the Linux kernel's built-in kernel virtualization module (KVM) combined with QEMU, we can achieve impossible near-native speeds. So let's see what we can do with QEMU/KVM...

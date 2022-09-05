@@ -7,7 +7,7 @@ tags: ["Linux", "Rant"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2021-04-21-wayland-is-a-scam.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2021-04-21-wayland-is-a-scam.md)*
 
 
 With every new release of GNOME, Plasma, Ubuntu, and Fedora, there's always something about Wayland being hyped. Wayland support only keeps on getting better and better with each and every new release. There's only one problem: Wayland is almost 13 years old and still hasn't made much of a dent in X11's dominance. We've been promised for years and years that Wayland is the future, but a decade later, it still hasn't delivered. This, to put it simply, is a scam.

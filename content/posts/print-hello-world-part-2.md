@@ -7,7 +7,7 @@ tags: ["Programming"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-09-24-print-hello-world-part-2.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-09-24-print-hello-world-part-2.md)*
 
 
 > *“The canonical, "Python is a great first language", elicited, "Python is a great last language!"”*

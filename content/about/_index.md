@@ -36,7 +36,7 @@ creating a compilation of hilariously useless (and fun!) [quotes](quotes).
 
 trapped inside [vim](https://www.reddit.com/r/archlinux/comments/hssui9/comment/fych9dq/).
 
-spending hours [copying posts from my five previous blogs](https://git.exozy.me/Ta180m/website/issues/1) to this website and too tired to convert the crappy BBCode posts to Markdown.
+spending hours [copying posts from my five previous blogs](https://git.exozy.me/a/website/issues/1) to this website and too tired to convert the crappy BBCode posts to Markdown.
 
 permanently incapable of [drawing](https://codeberg.org/LadueCS/pages/src/branch/main/img/mascot) just about anything whatsoever.
 
@@ -52,7 +52,7 @@ making Python segfault.
 
 fork bombing myself.
 
-running [docker inside docker inside docker inside docker](https://git.exozy.me/Ta180m/Arch-All-the-Way-Down).
+running [docker inside docker inside docker inside docker](https://git.exozy.me/a/Arch-All-the-Way-Down).
 
 doing math unironically.
 

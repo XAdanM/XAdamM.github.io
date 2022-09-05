@@ -7,7 +7,7 @@ tags: ["Linux"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2021-04-22-matrix-less-degenerate-than-discord.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2021-04-22-matrix-less-degenerate-than-discord.md)*
 
 
 Matrix is great. It's secure. it's decentralized. The perfect free and open source replacement for Discord, right?

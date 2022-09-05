@@ -7,7 +7,7 @@ tags: ["Linux"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2021-01-04-how-to-hibernate.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2021-01-04-how-to-hibernate.md)*
 
 
 If you dual-boot, hibernation is a necessity. Need to use the other OS for a few minutes? No problem, just hibernate, and when you boot your original OS again, you'll be back where you left off.

@@ -53,6 +53,6 @@ The neither good nor bad news is that there is still plenty left to do, such as 
 
 Anyways, after federated starring and the remote interactions UI are implemented, I think it's safe to say that Gitea federation will be 50% done. Of course, there will still be mounds of work left to do to handle all the different federated features we want Gitea to have, but the most difficult tasks will be finished. Reaching this current milestone has not required much code ("only" 1139 new lines) but a massive amount of thinking and discussing how to incrementally implement all the building blocks for federation.
 
-You can read more about federated following at this [draft PR](https://gitea.com/Ta180m/gitea/pulls/6) if you like gory technical details.
+You can read more about federated following at this [draft PR](https://gitea.com/xy/gitea/pulls/6) if you like gory technical details.
 
-And since I get asked this a ton, these federated features like federated following are (obviously) not in Gitea right now, but will probably be released in Gitea 1.18 in October. Only four more months of waiting! (I guess you could also try compiling [my code](https://gitea.com/Ta180m/gitea) and running it for your Gitea instance, but I highly don't recommend it since it might cause damage to your Gitea database.)
+And since I get asked this a ton, these federated features like federated following are (obviously) not in Gitea right now, but will probably be released in Gitea 1.18 in October. Only four more months of waiting! (I guess you could also try compiling [my code](https://gitea.com/xy/gitea) and running it for your Gitea instance, but I highly don't recommend it since it might cause damage to your Gitea database.)

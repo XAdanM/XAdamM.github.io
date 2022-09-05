@@ -7,7 +7,7 @@ tags: ["Linux", "Virtualization"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2021-01-07-fun-with-qemu-kvm-2.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2021-01-07-fun-with-qemu-kvm-2.md)*
 
 
 ![Linux Mint with 255 cores](/img/mint-255-cores.png)

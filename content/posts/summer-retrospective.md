@@ -22,7 +22,7 @@ My summer ends on August 23. 103 days total. I totally feel like I wasted it, bu
 
 - I tried a bunch of tactics for reducing distractions which [I wrote about earlier](effectiveness-physical-notebook). Did they work? Kinda, but I still have a ton of room for improvement.
 
-- I [copied all the blog posts from my old blogs](https://git.exozy.me/Ta180m/website/issues/1) to my current website, which took forever.
+- I [copied all the blog posts from my old blogs](https://git.exozy.me/a/website/issues/1) to my current website, which took forever.
 
 - I downloaded my account data from my Google accounts and deleted all of them except one.
 
@@ -42,7 +42,7 @@ My summer ends on August 23. 103 days total. I totally feel like I wasted it, bu
 
 - I met up with some old friends which was a ton of fun.
 
-- I started making a [digital garden](https://git.exozy.me/Ta180m/DAG), but it hasn't gone very far yet.
+- I started making a [digital garden](https://git.exozy.me/a/DAG), but it hasn't gone very far yet.
 
 - I deleted my GitHub repos except for 4 and made exogit the primary hosting site for them.
 
@@ -54,7 +54,7 @@ My summer ends on August 23. 103 days total. I totally feel like I wasted it, bu
 
 - Along with smolshep, we finished designing and drawing the LadueCS anime girl mascot using [Krita](	/posts/thinkpads-anime-apt-moo), which was a brutal 90 days of fun.
 
-- I designed a [minimal music programming language](https://git.exozy.me/Ta180m/M) but haven't had time yet to implement it.
+- I designed a [minimal music programming language](https://git.exozy.me/a/M) but haven't had time yet to implement it.
 
 - I figured out that I don't need to register to vote in Missouri and can instead do it in Massachusetts.
 
@@ -64,7 +64,7 @@ My summer ends on August 23. 103 days total. I totally feel like I wasted it, bu
 
 - I finished teaching an online programming class in mid-July.
 
-- I revived and revamped the [ebooks bot](https://git.exozy.me/Ta180m/ebooks), but I shut it down since it was kinda annoying.
+- I revived and revamped the [ebooks bot](https://git.exozy.me/a/ebooks), but I shut it down since it was kinda annoying.
 
 - I continued trying to improve my concentration and reduce distractions.
 

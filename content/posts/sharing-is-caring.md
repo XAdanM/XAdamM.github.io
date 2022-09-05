@@ -7,7 +7,7 @@ tags: ["Web", "Society"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2021-04-30-sharing-is-caring.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2021-04-30-sharing-is-caring.md)*
 
 
 [In an in an interview a few days ago](https://en.wikinews.org/wiki/Wikinews_discusses_DRM_and_DMCA_with_Richard_Stallman_after_GitHub_re-enables_public_access_to_youtube-dl), Richard Stallman was asked how publishers should sell copyrighted works. His response:

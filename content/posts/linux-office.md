@@ -7,7 +7,7 @@ tags: ["Linux", "Windows"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2020-12-25-linux-office.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2020-12-25-linux-office.md)*
 
 
 ![LibreOffice hate](/img/libreoffice-hate.png)

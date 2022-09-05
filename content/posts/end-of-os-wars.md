@@ -7,7 +7,7 @@ tags: ["Windows", "Linux"]
 ---
 
 
-*Originally posted on my [old blog](https://git.exozy.me/Ta180m/blog/src/branch/main/_posts/2021-02-15-end-of-os-wars.md)*
+*Originally posted on my [old blog](https://git.exozy.me/a/blog/src/branch/main/_posts/2021-02-15-end-of-os-wars.md)*
 
 
 **Warning**: Really long and disorganized post ahead. Half of it was written in October 2020 and the other half in February 2021, so that should give you an idea about how bad this post is. You should probably skip this one.
