@@ -1,4 +1,4 @@
-baseURL = 'https://h.exozy.me'
+baseURL = 'https://a.exozy.me'
 languageCode = 'en-us'
 title = 'Some Random Website'
 theme = 'gokarna'
@@ -37,7 +37,7 @@ theme = 'gokarna'
   [[menu.main]]
     identifier = 'git'
     name = 'Git'
-    url = 'https://git.exozy.me/Ta180m/website'
+    url = 'https://git.exozy.me/a/website'
     pre = '<span data-feather="git-pull-request"></span>'
     weight = 6
 
@@ -52,8 +52,8 @@ theme = 'gokarna'
       {name = 'matrix', url = 'https://matrix.to/#/@ta180m:exozy.me'},
       {name = 'mastodon', url = 'https://social.exozy.me/@ta180m'},
       {name = 'peertube', url = 'https://tube.exozy.me/a/ta180m/video-channels'},
-      {name = 'gitea', url = 'https://git.exozy.me/h/'},
+      {name = 'gitea', url = 'https://git.exozy.me/a/'},
       {name = 'codeforces', url = 'https://codeforces.com/profile/Ta180m'},
       {name = 'archlinux', url = 'https://aur.archlinux.org/packages/?K=Ta180m&SeB=m'},
-      {name = 'liberapay', url = 'https://liberapay.com/Ta180m/'},
+      {name = 'liberapay', url = 'https://liberapay.com/xy/'},
     ]

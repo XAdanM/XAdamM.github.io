@@ -2,20 +2,20 @@ clone:
   git:
     image: bash
     commands:
-      - mkdir -p /var/lib/woodpecker-agent/h
-      - cd /var/lib/woodpecker-agent/h
+      - mkdir -p /var/lib/woodpecker-agent/a
+      - cd /var/lib/woodpecker-agent/a
       - if [ -d website ]; then
       -   cd website
       -   git pull
       -   git submodule update
       - else
-      -   git clone --recursive https://git.exozy.me/h/website.git
+      -   git clone --recursive https://git.exozy.me/a/website.git
       - fi
 
 pipeline:
   build:
     image: bash
     commands:
-      - cd /var/lib/woodpecker-agent/h/website
-      - hugo --minify --destination /srv/http/pages/h
-      - echo eW91IGZvdW5kIGl0IQo= | base64 -d > /srv/http/pages/h/holy-grail
+      - cd /var/lib/woodpecker-agent/a/website
+      - hugo --minify --destination /srv/http/pages/a
+      - echo eW91IGZvdW5kIGl0IQo= | base64 -d > /srv/http/pages/a/holy-grail
