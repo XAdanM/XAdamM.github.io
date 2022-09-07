@@ -22,9 +22,7 @@ type: page
 
 - **Chat**: [Element](https://cloud.exozy.me/apps/riotchat/)
 
-- **Music**: VLC, [Jellyfin](https://media.exozy.me/)
-
-- **Video**: [PeerTube](https://tube.exozy.me/)
+- **Music**: VLC, mpv
 
 - **Virtualization**: QEMU/KVM, Podman
 
