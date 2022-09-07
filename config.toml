@@ -44,13 +44,13 @@ theme = 'gokarna'
 [params]
   avatarURL = '/dodecahedra/logo.webp'
   avatarSize = 'size-xl'
-  description = '(+ (Element 73) (τ/2 radians to degrees) (SI unit for length))'
+  description = '(+ (Algebraic number theory) (Element 67) (New York) (Whitespace) (Most common surname in China)'
   accentColor = '#00dd42'
   footer = '🎉 Made with Hugo and frustration! - CC BY-SA 4.0'
   socialIcons = [
       {name = 'email', url = '/about/email'},
       {name = 'matrix', url = 'https://matrix.to/#/@a:exozy.me'},
-      {name = 'mastodon', url = 'https://social.exozy.me/@ta180m'},
+      {name = 'mastodon', url = 'https://social.exozy.me/@a'},
       {name = 'peertube', url = 'https://tube.exozy.me/a/a/video-channels'},
       {name = 'gitea', url = 'https://git.exozy.me/a/'},
       {name = 'codeforces', url = 'https://codeforces.com/profile/Ta180m'},
