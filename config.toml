@@ -44,7 +44,7 @@ theme = 'gokarna'
 [params]
   avatarURL = '/dodecahedra/logo.webp'
   avatarSize = 'size-xl'
-  description = '(+ (Element 73) (τ/2 radians to degrees) (SI unit for length))'
+  description = '(+ (This subdomain) (Ordinal n) (! off) (Element 39))\n(+ (Wide area network) (Prefix for billion))'
   accentColor = '#00dd42'
   footer = '🎉 Made with Hugo and frustration! - CC BY-SA 4.0'
   socialIcons = [
