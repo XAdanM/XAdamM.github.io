@@ -29,7 +29,11 @@ On page 185 in the probably-machine-generated-572-page manual, there are instruc
 
 Except... it didn't work.
 
-I tried many more times before admitting defeat... but I'm so close! Only one option left. Cold reset.
+I tried many more times before admitting defeat... but I'm so close!
+
+Only one option left.
+
+Cold reset.
 
 Also on page 185, there are much more dangerous instructions. The cold reset apparently wipes all your settings and data and maybe even the firmware, so I gave it a try, waited 10 minutes, and I was greated with a printer setup screen. After choosing 24-hour time and the ideologically correct date format, I'd finally vanquished the terrible admin password from the printer! Victory!
 
