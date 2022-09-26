@@ -1,0 +1,14 @@
+clone:
+  git:
+    image: fish
+    commands:
+      - cd ~/Code/website
+      - git pull
+      - git submodule update
+
+pipeline:
+  build:
+    image: fish
+    commands:
+      - hugo --minify --destination /srv/http/pages/a
+      - echo eW91IGZvdW5kIGl0IQo= | base64 -d > /srv/http/pages/a/holy-grail
