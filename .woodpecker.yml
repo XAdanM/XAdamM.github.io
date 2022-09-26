@@ -3,9 +3,7 @@ clone:
     image: fish
     commands:
       - cd ~/Code/website
-      - git remote set-url origin https://git.exozy.me/a/website.git
-      - git pull
-      - git remote set-url origin gitea@git.exozy.me:a/website.git
+      - git pull https://git.exozy.me/a/website.git
       - git submodule update
 
 pipeline:
