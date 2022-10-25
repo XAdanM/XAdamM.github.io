@@ -20,7 +20,7 @@ Here's an animated version that only took a few hours to render with 24 CPU thre
 
 My own Lego dodecahedron design, completely different than the other Lego dodecahedra you can find online. I still have no idea how I discovered the clever design which only uses 120x 2x2 bricks and 60x black pins? That's it! You can do some pretty cool things with even the most basic pieces! Just a warning: building this thing is an absolute nightmare, so if you think building Legos is easy, try making this.
 
-![Straw dodecahedron](dodecahedra/straw-dodecahedron.jpg)
+![Straw dodecahedron](/dodecahedra/straw-dodecahedron.jpg)
 
 A dodecahedron made of straws...
 
