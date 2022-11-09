@@ -6,7 +6,6 @@ type: page
 
 I've already learned a bit of some of these things, but I'd like to learn more.
 
-- Go
 - Rust
 - Haskell
 - Scheme
