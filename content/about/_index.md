@@ -38,7 +38,7 @@ trapped inside [vim](https://www.reddit.com/r/archlinux/comments/hssui9/comment/
 
 spending hours [copying posts from my five previous blogs](https://git.exozy.me/a/website/issues/1) to this website and too tired to convert the crappy BBCode posts to Markdown.
 
-permanently incapable of [drawing](https://codeberg.org/LadueCS/pages/src/branch/main/img/mascot) just about anything whatsoever.
+permanently incapable of drawing just about anything whatsoever.
 
 faithfully cataloguing my [horde](hardware).
 
