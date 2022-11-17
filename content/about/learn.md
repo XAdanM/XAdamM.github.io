@@ -4,8 +4,6 @@ type: page
 ---
 
 
-I've already learned a bit of some of these things, but I'd like to learn more.
-
 - Rust
 - Haskell
 - Scheme
@@ -18,5 +16,3 @@ I've already learned a bit of some of these things, but I'd like to learn more.
 - Emacs
 - Lagrangian mechanics
 - Quantum mechanics
-- Hanzi
-
