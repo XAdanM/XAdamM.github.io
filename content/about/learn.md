@@ -10,7 +10,6 @@ type: page
 - Idris 2
 - Agda
 - Lean
-- Forth
 - Type theory
 - Opject capabilities
 - Emacs
