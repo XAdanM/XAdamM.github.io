@@ -41,7 +41,7 @@ The lottery in question here is of course finding a thrown-away laptop in the ba
 
 It wasn't just any laptop. It was a Dell XPS! Specifically, a Dell XPS 13 L321X from 2012. And they even found the charger! And there wasn't any physical damage! And even better, the laptop started up when they plugged in the charger! And then it amazingly booted up Ubuntu just fine!
 
-We had a lot of fun decorating the outside of the laptop with weird stickers:
+We had a lot of fun decorating the outside of the laptop with weird stickers. Interestingly, the laptop had a "Fat Matt's" sticker when we found it, so we left that one alone.
 
 ![Stickers!](/img/stickers.webp)
 
