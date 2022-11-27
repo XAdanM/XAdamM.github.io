@@ -49,11 +49,12 @@ theme = 'gokarna'
   footer = '🎉 Made with Hugo and frustration! - CC BY-SA 4.0'
   socialIcons = [
       {name = 'email', url = '/about/email'},
-      {name = 'matrix', url = 'https://matrix.to/#/@a:exozy.me'},
+      {name = 'gitea', url = 'https://git.exozy.me/a'},
+      {name = 'codeberg', url = 'https://codeberg.org/xy'},
       {name = 'mastodon', url = 'https://social.exozy.me/@a'},
       {name = 'peertube', url = 'https://tube.exozy.me/a/a/video-channels'},
-      {name = 'gitea', url = 'https://git.exozy.me/a/'},
-      {name = 'codeforces', url = 'https://codeforces.com/profile/Ta180m'},
+      {name = 'matrix', url = 'https://matrix.to/#/@a:exozy.me'},
       {name = 'archlinux', url = 'https://aur.archlinux.org/packages/?K=Ta180m&SeB=m'},
+      {name = 'codeforces', url = 'https://codeforces.com/profile/Ta180m'},
       {name = 'liberapay', url = 'https://liberapay.com/xy/'},
     ]
