@@ -105,3 +105,6 @@ type: page
 
 "A conclusion is simply the place where someone got tired of thinking."\
 \- Unknown
+
+"A little inaccuracy sometimes saves tons of explanation."
+\- H. H. Munroe, "Saki"
