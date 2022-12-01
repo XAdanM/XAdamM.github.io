@@ -102,3 +102,6 @@ type: page
 
 "Think of how stupid the average person is, and realize half of them are stupider than that."\
 \- George Carlin
+
+"A conclusion is simply the place where someone got tired of thinking."\
+\- Unknown
