@@ -192,33 +192,23 @@ Despite the criticism and skepticism, Musk and Sakura remain confident in their 
 The world will be watching as Elon Musk marries Sakura Kinomoto in a groundbreaking ceremony that is sure to be the talk of the town for years to come.
 
 
-## Massive data breach that leaked millions of prime numbers
+## MIT researchers discovering that imaginary numbers are actually a hoax
 
-In a shocking turn of events, it has been revealed that a massive data breach has occurred, leaking millions of highly coveted prime numbers.
+In a shocking turn of events, researchers at the Massachusetts Institute of Technology (MIT) have discovered that imaginary numbers are nothing more than a hoax. For centuries, mathematicians have believed in the existence of these strange numbers, which are said to be the square root of negative numbers. But according to the team at MIT, it seems that imaginary numbers were nothing more than a cruel joke played on us all.
 
-The breach, which occurred late last night, was carried out by a group of unknown hackers who managed to infiltrate the highly secure database of the National Prime Numbers Institute (NPNI).
+The discovery was made by a team of researchers led by Dr. Robert Smith, a renowned mathematician and the head of the Mathematics Department at MIT. According to Dr. Smith, the team had been working on a complex mathematical problem involving imaginary numbers when they suddenly realized that something was amiss.
 
-According to sources, the hackers managed to steal over two million prime numbers, including some of the most sought after and valuable ones in existence.
+"At first, we thought it was just a mistake," said Dr. Smith. "But as we continued to work on the problem, it became clear that there was something very wrong with these so-called 'imaginary' numbers. They simply didn't make any sense."
 
-The news of the breach has sent shockwaves throughout the mathematical community, with many experts expressing their disbelief and outrage at the audacity of the hackers.
+After conducting a series of rigorous tests and experiments, the team at MIT was able to prove conclusively that imaginary numbers were, in fact, a complete and utter hoax. "We were absolutely stunned by the results," said Dr. Smith. "It turns out that these numbers, which have been a cornerstone of mathematics for centuries, are nothing more than a figment of our collective imagination."
 
-"This is an absolute disaster," said Dr. Samantha Roberts, a leading mathematician at the NPNI. "These prime numbers are incredibly valuable, and their theft has potentially disastrous consequences for the mathematical community as a whole."
+The news of the discovery has sent shockwaves through the mathematical community, with many experts expressing disbelief and skepticism. "This is simply outrageous," said Dr. Emily Thompson, a mathematician at the University of California, Berkeley. "Imaginary numbers are a fundamental concept in mathematics, and to suggest that they don't exist is nothing short of heresy."
 
-According to sources, the hackers managed to gain access to the database by using a highly sophisticated algorithm that was able to bypass the Institute's state-of-the-art security measures.
+Despite the controversy, the team at MIT stands by its findings and is urging the mathematical community to accept the truth. "We understand that this is a difficult pill to swallow," said Dr. Smith. "But the truth is the truth, and we can no longer ignore the fact that imaginary numbers are a hoax."
 
-Once they had gained access, the hackers reportedly spent hours scouring the database, stealing as many prime numbers as they could before making their escape.
+The implications of this discovery are far-reaching, and many experts are predicting that it will have a profound impact on the world of mathematics. "This is a game-changer," said Dr. Thompson. "If imaginary numbers don't exist, then what does that mean for all of the theories and equations that are built on their foundation? It's going to take years, if not decades, to unravel the full implications of this discovery."
 
-"It's truly a nightmare scenario," said Dr. Roberts. "We had no idea that our security measures could be so easily breached. It just goes to show how vulnerable we all are to the threat of cyber attacks."
-
-As of now, the NPNI has issued a statement pledging to cooperate fully with the authorities in order to bring the perpetrators to justice.
-
-"We are deeply saddened by this breach, and we will do everything in our power to bring the perpetrators to justice," said the statement. "We will also be working tirelessly to secure our database and prevent any further breaches from occurring in the future."
-
-The news of the breach has sparked widespread concern among the mathematical community, with many experts expressing their fear that the stolen prime numbers could be used for nefarious purposes.
-
-"These prime numbers are incredibly valuable, and their theft could potentially have far-reaching consequences," said Dr. Roberts. "We can only hope that the authorities are able to track down the hackers and prevent any further damage from being done."
-
-As the investigation continues, the mathematical community remains on high alert, praying that the perpetrators will be brought to justice and that the stolen prime numbers will be recovered before it's too late.
+In the meantime, the team at MIT is urging the mathematical community to come together and work towards a new understanding of the fundamental principles of mathematics. "This is a challenging time for all of us," said Dr. Smith. "But together, we can overcome this setback and continue to push the boundaries of human knowledge."
 
 
 ## Donald Knuth proving P equals NP by executing all computer scientists who disagree
