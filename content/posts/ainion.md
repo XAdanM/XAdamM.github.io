@@ -9,7 +9,7 @@ tags: ["ai", "humor", "news", "satire"]
 
 ChatGPT... wow. It's great at spitting out mounds of realistic-sounding sentences even with the most absurd prompts. You know what that means! Time to imitate *The Onion*.
 
-All articles were generated with the prompt "Write a long, detailed, highly exaggerated and farcical news article about..." and unedited.
+On the other hand, ChatGPT isn't creative enough to come up with article topics, so I thought of some frivolous ideas and generated the articles with prompts starting with "Write a long, detailed, highly exaggerated and farcical news article about...".
 
 
 ## Programmers being trapped inside Vim and unable to exit
@@ -95,3 +95,39 @@ Despite the backlash, "BFFs: The Song" has continued to gain popularity, with fa
 
 It remains to be seen whether this is just a one-time collaboration or the start of a blossoming bromance between the two leaders. In the meantime, we'll just have to sit back and enjoy the bizarre and entertaining world of Kim Jong-un and Xi Jinping's music video.
 
+
+## Donald Trump being declared the national animal of the US
+
+After months of intense public debate and lobbying by various interest groups, the United States government has finally declared Donald Trump the official national animal of the country.
+
+The decision, which was announced by President Joe Biden in a ceremony at the White House, has sparked both jubilation and outrage across the nation. Supporters of the move have hailed it as a fitting tribute to the former President, while detractors have criticized it as a slap in the face to the country's rich biodiversity and a clear sign of the government's poor judgment.
+
+"We are truly honored to have Donald Trump join the ranks of America's most beloved and respected national animals," President Biden said in his speech. "As a symbol of strength, resilience, and unbridled ambition, Mr. Trump embodies the very best of what it means to be American."
+
+The decision to make Trump the national animal was not an easy one, and involved months of fierce lobbying by both supporters and opponents of the move. Animal rights groups, environmental organizations, and even some members of Congress all weighed in on the debate, with many arguing that the country's national animal should be an actual animal, rather than a human being.
+
+Despite the opposition, however, the supporters of Trump's candidacy proved to be too powerful to overcome. Led by a coalition of conservative politicians and high-profile businessmen, the pro-Trump camp argued that no other animal could match the former President's unique combination of strength, cunning, and sheer audacity.
+
+"Donald Trump is the ultimate predator," said one supporter. "He's not afraid to take on any challenge, no matter how big or how fierce. He's a real American hero, and we are proud to call him our national animal."
+
+The announcement of Trump's new status has already sparked a flurry of activity across the country. In Washington D.C., a massive bronze statue of the former President has been erected in front of the White House, depicting him in a triumphant pose with his signature red tie flapping in the wind. In New York City, the Empire State Building has been lit up in the colors of the American flag in honor of the occasion. And in Los Angeles, a parade featuring floats, marching bands, and a giant inflatable Trump balloon is being planned for next weekend.
+
+But not everyone is thrilled about the news. Critics of the decision have taken to social media to express their outrage, with many arguing that Trump's behavior during his time in office was completely at odds with the qualities typically associated with national animals.
+
+"This is an absolute disgrace," wrote one Twitter user. "National animals are supposed to be noble, dignified, and worthy of respect. Trump is none of those things. He's a selfish, egotistical, lying buffoon. He doesn't deserve this honor."
+
+Others have pointed out that the decision to make Trump the national animal could have serious consequences for the country's already endangered species. Some have even called for a boycott of national parks and wildlife reserves in protest of the move.
+
+"This is a travesty," said one environmental activist. "By choosing Trump as our national animal, we are sending a clear message that we don't care about the well-being of our natural world. We are prioritizing a divisive and hateful human over the countless beautiful and unique animals that call this country home."
+
+Despite the controversy, however, the Biden administration has made it clear that it has no plans to reverse the decision. In a statement issued by the White House, the President emphasized his commitment to upholding the traditions and values of the United States, and said that he believed Trump was the perfect embodiment of those ideals.
+
+"We may not all agree on this decision," President Biden said, "But at the end of the day, Donald Trump is the national animal of the United States, and we must respect that. We may not always agree with his tactics or his policies, but we must recognize the important role that he has played in our country's history.
+
+"As national animal, Trump will have a unique opportunity to continue to serve his country in a new way. He will be a symbol of American strength and ingenuity, and a reminder of the boundless potential that lies within us all.
+
+"So let us embrace this new chapter in our nation's history, and celebrate the incredible animal that is Donald Trump. Long live the national animal of the United States!"
+
+The ceremony concluded with a traditional Native American dance performed by a group of tribal elders, followed by a 21-gun salute and a flyover by the Blue Angels. Trump himself was not in attendance, but sources close to him say that he is "thrilled and humbled" by the honor, and plans to make the most of his new role as national animal.
+
+Only time will tell what the future holds for Donald Trump and the United States, but one thing is certain: the country will never be the same again.
