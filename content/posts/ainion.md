@@ -11,7 +11,7 @@ ChatGPT... wow. It's great at spitting out mounds of realistic-sounding sentence
 
 On the other hand, ChatGPT isn't creative enough to come up with article topics, so I thought of some frivolous ideas and generated the articles with prompts starting with "Write a long, detailed, highly exaggerated and farcical news article about...".
 
-And to trip you up, one of the ten articles I generated actually begins with an actual *The Onion* article! However, *The Onion* articles are usually very short, so I used ChatGPT to write some more about the topic. Can you identify which article is the real fake news?
+And to trip you up, one of the ten articles I generated actually begins with a real *The Onion* article! However, *The Onion* articles are usually very short, so I used ChatGPT to write some more about the topic. Can you identify which article is the real fake news?
 
 
 ## Programmers being trapped inside Vim and unable to exit
