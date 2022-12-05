@@ -1,9 +1,9 @@
 ---
 title: "The AInion"
 date: 2022-12-05T15:34:49Z
-description: "Writing satirical news articles with ChatGPT"
+description: "Writing weird satirical news articles with ChatGPT"
 type: "post"
-tags: ["ai", "humor", "news", "satire"]
+tags: ["ai", "humor", "news", "satire", "weird", "fun", "politics"]
 ---
 
 
