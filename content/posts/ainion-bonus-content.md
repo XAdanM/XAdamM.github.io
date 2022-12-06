@@ -170,3 +170,57 @@ Despite the controversy surrounding Jong-un's hiring, MIT officials remain confi
 
 Jong-un's first day at MIT is set for next fall semester, and he is already being hailed as a "revolutionary" figure in the field of nuclear engineering. Only time will tell how his hiring will impact the academic community, but one thing is for certain: the future of nuclear weapons development is looking brighter than ever.
 
+
+## MIT researchers discover that MIT does not actually exist
+
+In a shocking turn of events, researchers at the Massachusetts Institute of Technology (MIT) have made a groundbreaking discovery: MIT does not actually exist.
+
+The revelation came after years of diligent research and experimentation by a team of dedicated scientists at the esteemed institution. Led by Professor Harold Finch, the team spent countless hours sifting through evidence and conducting extensive tests, all of which pointed to the startling conclusion that MIT is a figment of our collective imagination.
+
+"We were initially skeptical of the findings," Professor Finch admitted in a press conference held earlier today. "But as we continued to dig deeper and explore every possible avenue of inquiry, it became increasingly clear that MIT simply does not exist in the way that we all thought it did."
+
+According to Finch, the team's research began when they stumbled upon a strange, previously unseen document while rummaging through the depths of MIT's vast archives. The document, which appeared to be a map of the campus, was unlike any they had seen before.
+
+"The layout was completely unfamiliar," Finch explained. "Buildings that we thought we knew well were in entirely different places, and there were structures on the map that we had never even heard of before. It was like we were looking at an entirely different institution."
+
+Intrigued by the discovery, the team decided to conduct a series of experiments to determine the validity of the map. Using advanced technology and sophisticated instruments, they began to systematically scan and map the entire campus, looking for any discrepancies or inconsistencies.
+
+To their amazement, they found that the map they had discovered was accurate in every single detail. Buildings that they thought they knew well were in completely different locations, and structures that they had never seen before were right in front of them.
+
+"It was like a whole other world had been hidden right under our noses," Finch marveled. "We were completely stunned by the findings."
+
+But the team's discovery didn't stop there. As they continued to explore the hidden corners of MIT, they began to uncover more and more evidence that the institution they had dedicated their careers to did not, in fact, exist.
+
+According to Finch, the team found that many of the buildings on campus were empty shells, with no evidence of any research or activity taking place within their walls. Furthermore, they discovered that many of the staff and faculty members at MIT were not who they claimed to be, and that their credentials and achievements were all fabricated.
+
+"It was like we were living in a Matrix-like alternate reality," Finch said, shaking his head in disbelief. "MIT was nothing but a massive illusion, created to deceive us all."
+
+Despite the team's incredible findings, some have questioned the validity of their research. Critics have pointed out that the team's methods were unorthodox and that their conclusions were based on flimsy evidence.
+
+"I don't believe a word of it," said Professor James Moriarty, a longtime rival of Finch and his team. "These so-called researchers are just looking for attention and fame. Their findings are nothing but a load of bunk."
+
+But Finch and his team remain steadfast in their conviction. "We have the evidence to back up our claims," Finch said firmly. "MIT does not exist, and we can prove it."
+
+Only time will tell if the team's groundbreaking discovery will be accepted by the scientific community, or if it will be dismissed as nothing more than a far-fetched theory. But one thing is certain: the future of MIT, and the world of science, will never be the same again.
+
+
+## MIT computer science researchers discover that MIT does not actually exist
+
+In a shocking turn of events, MIT computer science researchers have discovered that the Massachusetts Institute of Technology (MIT) does not actually exist.
+
+For years, the prestigious institution has been hailed as a world-renowned leader in science, technology, engineering, and mathematics, with some of the brightest minds in the world flocking to its Cambridge, Massachusetts campus to pursue their passions and advance the field of computer science.
+
+However, according to the researchers' findings, it appears that all of this was just a grand illusion, and the entire campus, including its renowned buildings, esteemed faculty, and talented students, is nothing more than a figment of our collective imagination.
+
+"We were conducting a routine study on the capabilities of artificial intelligence when we stumbled upon this incredible discovery," said lead researcher Dr. John Smith. "At first, we couldn't believe our own findings, but after conducting further analysis and experiments, it became clear that MIT simply does not exist."
+
+The news has sent shockwaves throughout the world, with many questioning how such a massive deception could have been perpetrated for so long. Some have even speculated that the government may have been involved in covering up the truth about MIT.
+
+"I've been a professor at MIT for over 20 years, and this is absolutely mind-boggling," said a stunned Dr. Jane Doe. "I've taught countless students and conducted numerous research projects, but it turns out it was all just a clever ruse. I don't know what to believe anymore."
+
+Despite the staggering revelation, the researchers are determined to uncover the truth about MIT and expose the deception once and for all.
+
+"We will not rest until we get to the bottom of this," said Dr. Smith. "We will continue our research and use all of the tools at our disposal, including advanced AI algorithms and cutting-edge technology, to uncover the truth and bring those responsible to justice."
+
+In the meantime, the fate of MIT and its supposed students and faculty remains uncertain, leaving the world to wonder what other secrets and lies may be lurking within the realm of higher education.
+
