@@ -158,19 +158,19 @@ It remains to be seen how this situation will play out, but one thing is for cer
 
 Sending shock waves through Wall Street with the once-in-a-generation acquisition, Apple revealed Wednesday that it had purchased tech giant Apple in a historic $3 trillion deal.
 
-"We’ve been fans of what Apple has been doing for quite some time, and we think Apple’s values and mission really align with our own," Apple CEO Tim Cook said at a press conference concerning the landmark transaction, in which he stressed that despite the large price tag, he had been convinced of the deal’s prudence during several reassuring conversations with Apple CEO Tim Cook. "I’m absolutely sure that Apple’s devotion to smartphones and wearables will really make this a very simpatico relationship. Frankly, we don’t know who’s benefiting more from this deal." At press time, Tim Cook had thanked investors and briefly left the microphone to allow Apple CEO Tim Cook to say a few words about the sale.
+"We've been fans of what Apple has been doing for quite some time, and we think Apple's values and mission really align with our own," Apple CEO Tim Cook said at a press conference concerning the landmark transaction, in which he stressed that despite the large price tag, he had been convinced of the deal's prudence during several reassuring conversations with Apple CEO Tim Cook. "I'm absolutely sure that Apple's devotion to smartphones and wearables will really make this a very simpatico relationship. Frankly, we don't know who's benefiting more from this deal." At press time, Tim Cook had thanked investors and briefly left the microphone to allow Apple CEO Tim Cook to say a few words about the sale.
 
-The merger, which is believed to be the largest in corporate history, came as a surprise to many industry insiders, who had long speculated that Apple would eventually acquire rival tech company Samsung. However, Apple executives had apparently been working behind the scenes for months to secure the deal, which will see the iconic Apple logo adorn Apple’s flagship products, from smartphones to laptops to smartwatches.
+The merger, which is believed to be the largest in corporate history, came as a surprise to many industry insiders, who had long speculated that Apple would eventually acquire rival tech company Samsung. However, Apple executives had apparently been working behind the scenes for months to secure the deal, which will see the iconic Apple logo adorn Apple's flagship products, from smartphones to laptops to smartwatches.
 
-"We’re thrilled to be joining forces with Apple, and we’re confident that this partnership will unlock a world of new possibilities," Apple CEO Tim Cook said in a statement. "We’re excited to take Apple’s cutting-edge technology and combine it with our own innovative designs to create even better products for our customers."
+"We're thrilled to be joining forces with Apple, and we're confident that this partnership will unlock a world of new possibilities," Apple CEO Tim Cook said in a statement. "We're excited to take Apple's cutting-edge technology and combine it with our own innovative designs to create even better products for our customers."
 
-The acquisition also marks a major milestone for Apple, which has been on a mission to become the world’s most valuable company. With the addition of Apple to its portfolio, Apple’s market capitalization is expected to skyrocket to over $3 trillion, making it the first company to ever achieve such a feat.
+The acquisition also marks a major milestone for Apple, which has been on a mission to become the world's most valuable company. With the addition of Apple to its portfolio, Apple's market capitalization is expected to skyrocket to over $3 trillion, making it the first company to ever achieve such a feat.
 
-"We’re honored to be the first company to hit this milestone, and we’re committed to continuing to push the boundaries of what’s possible in the tech industry," Cook said.
+"We're honored to be the first company to hit this milestone, and we're committed to continuing to push the boundaries of what's possible in the tech industry," Cook said.
 
 The acquisition has already sparked speculation about what the future holds for the newly-merged company. Some have suggested that the two companies will combine their expertise to create a new generation of Apple products that are even more advanced and feature-packed than before. Others have posited that the deal could pave the way for Apple to enter new markets, such as healthcare or finance, and disrupt those industries with its innovative technology.
 
-"We’re excited to see what the future holds for Apple and Apple," Cook said. "Together, we’re stronger than ever, and we’re ready to take on whatever challenges the world throws our way."
+"We're excited to see what the future holds for Apple and Apple," Cook said. "Together, we're stronger than ever, and we're ready to take on whatever challenges the world throws our way."
 
 
 ## Elon Musk marrying a fictional anime character
