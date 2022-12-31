@@ -11,7 +11,7 @@ type: page
 - Agda
 - Lean
 - Type theory
-- Opject capabilities
+- Object capabilities
 - Emacs
 - Lagrangian mechanics
 - Quantum mechanics
