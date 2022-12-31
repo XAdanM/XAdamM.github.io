@@ -3,7 +3,7 @@ clone:
     image: fish
     commands:
       - cd ~/Code/website
-      - git pull
+      - git pull https://git.exozy.me/a/website.git
       - git submodule update
 
 pipeline:
