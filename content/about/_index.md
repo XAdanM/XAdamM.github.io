@@ -60,7 +60,7 @@ destroying GitHub.
 
 getting roasted for my terrible [software stack](software).
 
-seeding this website with tons of secret easter eggs.
+seeding this website with tons of [secret easter eggs](puzzle).
 
 amazed that special patterns in my biological neural networks transcribed into UTF-8 encoded strings in Markdown documents converted into HTML by [Hugo](https://gohugo.io) with the [Gokarna theme](https://github.com/526avijitgupta/gokarna) deployed to [exozyme](https://exozy.me) using [Woodpecker CI](https://woodpecker-ci.org) transmitted over HTTP and displayed on your screen have now created special patterns in your biological neural networks.
 
