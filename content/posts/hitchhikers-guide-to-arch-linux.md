@@ -60,7 +60,7 @@ I kinda lied that this isn't Lalani's story, because it is a story about her, bu
 
 Anyways, the book is called *How to Hack* and contains all the step you need to become a script kiddy. When Bobert discovered it in Mr. FFFFFF's room his first year of high school, he took it out on permanent loan and didn't return it until some other hardcore fan of the book at LHWHSCSC commented on one of Bobert's hacking flex YouTube videos a Batch script that Bobert blindly pasted into notepad.exe and ran it in PowerShell. Bobert always knows exactly what he's doing.
 
-Today is Out of Touch Thursday (if you computer's clock says otherwise, it's wrong and you should set it to Thursday), and that means a LHWHSCSC meeting!
+Today is Out of Touch Thursday (if your computer's clock says otherwise, it's wrong and you should set it to Thursday), and that means a LHWHSCSC meeting!
 
 At exactly 14:30 PM, the final school bell rings and all CS enthusiasts and wannabe l33t hax0rs in the building compute the shortest path to Mr. FFFFFF's room and make the perilous trek against a torrent of students stampeeding the other way that want to get out of school as quickly as possible. (It's miraculous no one has died yet getting trampled in the halls.)
 
