@@ -49,7 +49,7 @@ theme = 'gokarna'
   footer = '🎉 Made with Hugo and frustration! - CC BY-SA 4.0'
   socialIcons = [
       {name = 'email', url = '/about/email'},
-      {name = 'gitea', url = 'https://git.exozy.me/a'},
+      {name = 'forgejo', url = 'https://git.exozy.me/a'},
       {name = 'codeberg', url = 'https://codeberg.org/xy'},
       {name = 'mastodon', url = 'https://social.exozy.me/@a'},
       {name = 'peertube', url = 'https://tube.exozy.me/a/a/video-channels'},

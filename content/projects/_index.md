@@ -4,7 +4,7 @@ type: page
 ---
 
 
-Some random projects. More random projects on my [Gitea instance](https://git.exozy.me/a/).
+Some random projects. You can find more on my [Forgejo instance](https://git.exozy.me/a/).
 
 - [Dodecahedra](dodecahedra)
 
