@@ -11,5 +11,5 @@ pipeline:
     image: fish
     commands:
       - cd ~/Code/website
-      - hugo --minify --destination /srv/http/pages/a
+      - hugo --minify --cleanDestinationDir --destination /srv/http/pages/a
       - echo eW91IGZvdW5kIGl0IQo= | base64 -d > /srv/http/pages/a/holy-grail
