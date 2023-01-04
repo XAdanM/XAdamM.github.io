@@ -2,7 +2,6 @@
 title: "Running Like Idiots"
 date: 2023-01-04T18:01:29Z
 description: "A poem about my experiences as an MIT student"
-draft: true
 type: "post"
 tags: ["mit", "life", "college", "fun"]
 ---
