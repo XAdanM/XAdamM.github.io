@@ -26,4 +26,4 @@ Waste time.
 
 Now read the lines in reverse order.
 
-A few weeks ago, I visited a contemporary art museum in Boston with the same friends, where we saw a poem with a completely different meaning when read forwards and backwards. I tried it out myself, writing a poem about a real incident that happened, where I broke my backpack strap while sprinting from the Boston Science Museum to my dorm. The backpack was fine in the end, since I tied the strap into a really cursed knot that somehow held together perfectly. Writing this kind of poem is definitely no trivial feat. It's a bit like the shoelace formula.
+A few weeks ago, I visited a contemporary art museum in Boston with the same friends, where we saw a poem with a completely different meaning when read forwards and backwards. I tried it out myself by writing a poem about a real incident, where we sprinted from the Boston Science Museum to our dorm, breaking my backpack strap in the process. The backpack was fine in the end, since I tied the strap into a really cursed knot that somehow held together perfectly. Writing this kind of poem is definitely no trivial feat. It's a bit like the shoelace formula.
