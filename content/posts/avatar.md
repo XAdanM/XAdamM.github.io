@@ -1291,3 +1291,7 @@ Bobert: Hah! Your order makes mine look like a vitamin supplement!
 (As they finish their froyo and prepare to catch up on all their missing homework, they can't help but feel grateful for the power of stupidity and the bonds of friendship)
 
 (Fade to black)
+
+## Author's Note
+
+Read [this explanation post](/posts/making-of-avatar) to learn how this story was written!

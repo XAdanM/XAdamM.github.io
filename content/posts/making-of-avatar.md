@@ -43,4 +43,4 @@ Conveniently, the [Intro to Python](https://codeberg.org/LadueCS/Intro-to-Python
 
 As for the name of the "book", I stuck with "Avatar" because there are a million different franchises all named Avatar (or at least two), and plus, avatars (as in profile pictures) are a minor plot point in the story. Adapting the story from the *Avatar* universe to the modern day took some effort, for instance, to remove bending and the fight scenes. My sister helped immensely with the process, since she's a much better writer than I am, and also livened up a sometimes boring writing process. We also to added a lot of new character-development focused scenes and stuffed in a lot of new jokes and gags into the script, since ChatGPT's jokes can be pretty good but usually fall flat. It all took about a day to finish.
 
-And there you have it, an over-50-page satirical book written in a day with the help of ChatGPT!
+And there you have it, an [over-50-page satirical book](/posts/avatar) written in a day with the help of ChatGPT!
