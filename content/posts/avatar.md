@@ -382,7 +382,7 @@ Billiam: St. Louis, Misery.
 
 Mordekai: Sounds exciting. Happiest city in the US, am I right?
 
-Bella: Full of fun things to do. Like visiting the lush greenery of our one and only national park: the metal version of the McDonald's Logo cut in half.
+Bella: Full of fun things to do. Like visiting the lush greenery of our one and only national park: the metal version of the McDonald's logo cut in half.
 
 (They reach San Silicono and Mordekai drops them off at the downtown)
 
