@@ -7,6 +7,8 @@ tags: ["fiction", "story", "lwhws", "adventure", "humor", "satire", "fun", "cryp
 ---
 
 
+*You can find a PDF version [here](https://codeberg.org/LadueCS/Lore/raw/branch/main/1-avatar.pdf).*
+
 *This is a work of fiction. Any resemblance to actual events or locales or persons, living or dead, is not coincidental and you should sue us. The characters are based off of those in [Intro to Python](https://codeberg.org/LadueCS/Intro-to-Python).*
 
 
