@@ -9,7 +9,7 @@ tags: ["explanation", "story", "fiction", "humor", "fun"]
 
 I have to admit I have a weird new hobby now, and it's asking ChatGPT ridiculous prompts in hopes for an equally ridiculous answer. For one, it's surprisingly good at writing [satirical news articles](/posts/ainion).
 
-Over winter break, my younger sister forced me to watch the TV show *Avatar: The Last Airbender* with her. I've never seen that show before, perhaps because it's the same age as me, but my sister has somehow seen it a million times already and spoiled anything unimportant to keep me annoyed but not too annoyed. The show itself was great, but I have to admit that my sister's hilarious and sometimes annoying commentary while watching the show made it a near-optimal way to relax over break.
+Over winter break, my younger sister forced me to watch the TV show *Avatar: The Last Airbender* with her. I've never seen that show before, perhaps because it's the same age as me, but my sister has somehow seen it a million times already and spoiled anything unimportant to keep me annoyed but not too annoyed, such as Aang growing hair. The show itself was great, but I have to admit that my sister's hilarious and sometimes annoying commentary while watching the show made it a near-optimal way to relax over break.
 
 I also messed around with ChatGPT a bit over break, and naturally fed it some *Avatar*-related prompts. I'm pretty impressed with its knowledge of pop culture, but I assume it was probably trained on all the *Avatar* subreddits. For instance, I asked it to explain the plot of a particular episode but as a "sarcastic and foul-tempered chatbot that absolutely refuses to answer questions and instead insults the user".
 

@@ -14,7 +14,7 @@ tags: ["fiction", "story", "lwhws", "adventure", "humor", "satire", "fun", "cryp
 
 (It's a typical sunny afternoon in the beautiful, wonderful city of St. Louis, Misery, perfect for a sudden disaster to ruin a nice day)
 
-(Opening shot: The Wender siblings, Billiam, Bobert, and Bella, are sprinting across a golf-course-green lawn, trying to evade two agents in slick suits and shades driving a stereotypically suspicious white van)
+(Opening shot: The three Wender siblings, Billiam, Bobert, and Bella, are sprinting across a golf-course-green lawn, trying to evade two agents in slick suits and shades driving a stereotypically suspicious white van)
 
 Billiam: (breathless) What the heck is going on? Why are we being chased?
 
@@ -60,6 +60,8 @@ Bobert: (confident) Trust me, Billiam. I've been reading up on all the latest cr
 
 Bella: Wow Bobert, I can already feel the game changing before our very eyes! I'm ready for an adventure! In this white van! While being kidnapped!
 
+(They hear the sound of thunder, and rain suddenly starts pouring)
+
 Bobert: (defensive) Look, I swear I can get us out of this. Just watch.
 
 Bella: No you can't. You got a computer virus last week from pasting a YouTube comment into notepad.exe and running it in PowerShell, because you're such a l33t hax0r.
@@ -84,21 +86,25 @@ Billiam: (offended) Hey, my glasses look great!  Wait, but how exactly am I the 
 
 Bobert: (very confused) There's no way Billiam's the "chosen one". He's literally a stale cracker bread oat. The average computer has more personality than him. And my haircut is way better. It should be me!
 
-Bella: (trying to cheer everyone up) What an L. Both of you.
+Bella: (trying to cheer everyone up) What an L. Both of you. And Billiam, your glasses look do look hella cringe. How can you leave the house everyday wearing those ugly frames?
 
-Billiam: Anyways, Ezon Muzk... that loony billionaire... what could he want from me?
+Billiam: Look, that's not relevant. Anyways, Ezon Muzk—
 
-Bobert: He's the one that bought the Spitter social network recently, right?
+Bella: Stop avoiding the question.
 
-Billiam:(nods) Yeah, that's him.
+Billiam: (ignores her) —that loony billionaire... what could he want from me?
 
-Bobert: (suddenly excited) Look guys, listen up. I've a backup plan.
+Bobert: He's the one that bought the Spitter social network recently, right? CEO of Muzk Inc.?
 
-Bella: (sighs) Oh boy, our friendly neighborhood genius is gonna yak about crypto again.
+Billiam: (nods) Yeah, that's him.
 
-Bobert: Bella, we can use your machine learning PC to mine for crypto! Don't you have an insanely powerful graphics card? We'll have tons of coins in no time!
+Bobert: (suddenly excited) Wait, guys, listen up. I've a backup plan.
 
-Bella: (outraged) Mine for crypto? Are you kidding me, Bobert? We're stuffed in a freaking van, and you wanna mine crypto?
+Bella: (sighs) Oh boy, our friendly neighborhood genius is gonna yak about crypto again!
+
+Bobert: Hear me out: Bella, we can use your machine learning PC to mine for crypto! Don't you have an insanely powerful graphics card? We'll have tons of coins in no time!
+
+Bella: (outraged) Mine for crypto? Are you kidding me, Bobert? We're stuffed in a freaking van and they took away our phones, and you wanna mine crypto?
 
 Bobert: (still excited) No, Bella, I'm serious! You can use your machine learning rig to create new blocks on the blockchain, and we'll earn crypto as a reward!
 
@@ -114,7 +120,7 @@ Agent 1: You mean being taken without your consent.
 
 (Cut to: Gizelle Muzk, Ezon Muzk's 15-year-old niece, sitting in a sleek private jet surrounded by agents)
 
-Gizelle: So... has our target, this Billiam kid. been captured yet?
+Gizelle: So... has our target, this Billiam kid, been captured yet?
 
 Agent: (monotone) Yes, we have him and his siblings in a van heading to the airport right now.
 
@@ -126,7 +132,7 @@ Agent: Roger that. I will notify the other agents of this.
 
 Agent: (sarcastic) So, Lalani, thanks so much for all your cooperation and help with capturing Billiam.
 
-Lalani: Oh, my pleasure. I love being kidnapped and tied to a chair while being intimidated into revealing Billiam's address.
+Lalani: Oh, my pleasure. I love being kidnapped and tied to a chair while being intimidated into revealing Billiam's address. Let me just go dial up my friends over at the FBI and tell them how utterly enthused I am.
 
 (Another agent shoves the Wender siblings into the room)
 
@@ -150,7 +156,7 @@ Bobert: It's not my fault! Guys, we gotta stay strong in this bear market. We ca
 
 (Bella facepalms)
 
-Lalani: Bobert's right. I think. If he's saying what I think he is...I I don't really know what FUD is but, I'm sure what he means is don't panic.
+Lalani: Bobert's right. I think. If he's saying what I think he is, since, well, I don't really know what FUD is, but I'm sure what he means is don't panic.
 
 Agent: (leaves room and locks door) Enjoy the flight to San Silicono! We'll be at Muzk Tower in only two hours!
 
@@ -168,7 +174,7 @@ Gizelle: (raises eyebrows) Don't play dumb with me, Billiam. You know why.
 
 Billiam: I guess I'm just dumb then, cause I have no idea what this is all about.
 
-Bobert: Gizelle, don't you dare do anything to us. I've a backup backup plan. It's a novel application of blockchain using my crypto wallet to—
+Bobert: Gizelle, don't you dare do anything to us. I've got a backup backup plan. It's a novel application of blockchain using my crypto wallet to—
 
 Gizelle: You have a electronic device on you? Agents, seize it!
 
@@ -180,7 +186,7 @@ Bobert: It's my backup phone. I store it under my shirt at all times. It can't c
 
 Bella: You fool.
 
-Lalani: Bella, now isn't the time. Bobert was probably just a little too overwhelmed by the whole being-kidnapped-thing to think clearly.
+Lalani: Now isn't the time. Bobert was probably just a little too overwhelmed by the whole being-kidnapped-thing to think clearly.
 
 Gizelle: (interested) Wait, a crypto wallet? How much is in there?
 
@@ -211,6 +217,8 @@ Lalani: (furious) What kind of stupid deal is this? We can't just "hand over" Bo
 Gizelle: (thinks hard) Very well. I agree to your deal, on the condition that you keep all of this a secret. Don't tell anyone, especially the press and the police. I'll contact your parents and let them know that Bobert is in safe hands. (holds out her hand) Give me the crypto wallet.
 
 Bobert: (reluctant) Do I *really* have to go with her? You guys aren't going to HODL on to me? This smells an awfully lot like a FOMO-induced trade!
+
+Bella: (snaps) Cut down on the obscure crypto slang that no one here gets.
 
 Billiam: (sympathetic) I'm sorry, Bobert. It's the only way to keep everyone else safe.
 
@@ -248,7 +256,7 @@ Lalani: (extremely worried) This is all a huge mistake. How can you two not care
 
 Bella: Lock him in a dark room so that no one ever has to endure listening to his crypto talk anymore?
 
-Lalani: Haha, Bella. I'm being serious. What if she mutilates Bobert? And do you really think Gizelle is gonna honor this deal?
+Lalani: Haha, Bella. I'm being serious. What if she hurts Bobert? And do you really think Gizelle is gonna honor this deal?
 
 Billiam: How am I supposed to worry about Bobert when we're in free fall a mile above the ground?
 
@@ -276,7 +284,7 @@ Agent: Look, I'm really worried for you. It's only been an hour and you're becom
 
 (The room is dead silent, except for the tick of the clock on the wall)
 
-Gizelle: (Gizelle narrows her eyes) Do you really think you can just boss me around like that? You're my minion, not the other way around. If you bring this up again, I'll do something unspeakable.
+Gizelle: (narrows her eyes) Do you really think you can just boss me around like that? You're my minion, not the other way around. If you bring this up again, I'll do something truly unspeakable to you.
 
 (The agent tries not to make any kind of visible reaction and Gizelle returns to the room)
 
@@ -284,15 +292,17 @@ Gizelle: (Gizelle narrows her eyes) Do you really think you can just boss me aro
 
 Billiam: Wow, alpacas!
 
+(Billiam pets the head of a nearby alpaca, who spits on him)
+
 Bella: Uh, yay for the alpacas I guess, but shouldn't we figure out where we are right now?
 
-Billiam: Let's go home. I'm exhausted.
+Billiam: (wiping alpaca spit off his glasses) Let's go home. I'm exhausted.
 
 Lalani: (furious) Go home? We can't just go home when Bobert is out there with a bunch of loonies.
 
 Bella: Sure we can. He's a cryptobro. He'll fit in fine.
 
-Lalani: What are you talking about? Remember last week when someone commented on one of Bobert’s hacking flex YouTube videos a virus script that Bobert blindly pasted into notepad.exe and ran it in PowerShell? If he's brain-dead enough to get a virus from a YouTube comment, how's he going to survive alone out there?
+Lalani: What are you talking about? Remember last week when someone commented on one of Bobert's hacking flex YouTube videos a virus script that Bobert blindly pasted into notepad.exe and ran it in PowerShell? If he's brain-dead enough to get a virus from a YouTube comment, how's he going to survive alone out there?
 
 Billiam: Lalani, you're right. We can't just leave him with Gizelle. He's my brother. We have to bring him back.
 
@@ -330,7 +340,7 @@ Gizelle: Bobert, I have a proposition for you.
 
 Bobert: (interested) What?
 
-Gizelle: (serious) I want you to be my advisor on all things crypto. In exchange, I'll make you a high-ranking employee of the Muzk company.
+Gizelle: (serious) I want you to be my advisor on all things crypto. In exchange, I'll make you a high-ranking employee of Muzk Inc.
 
 Bobert: (hesitant) I don't know, Gizelle. My friends are out there somewhere, and I don't want to abandon them.
 
@@ -338,7 +348,7 @@ Gizelle: (persuasive) Think about it, Bobert. You could have unlimited access to
 
 Bobert: That does sound really nice...
 
-(Cut to: Billiam and his friends, who are hitchhiking with a friendly man named Mordekai)
+(Cut to: Billiam and his friends, who are hitchhiking in an aggressively red pickup truck with a friendly man named Mordekai)
 
 Bella: See scaredy cats, hitchhiking is fun!
 
@@ -346,7 +356,7 @@ Lalani: (anxious) I still think we could've gotten murdered.
 
 Mordekai: So whada you kids doin out here in the middle a nowhere?
 
-Bella: We're trying hitchhiking!
+Bella: (thrilled) We're trying hitchhiking!
 
 Lalani: Bella! You can't just say that! I was going to come up with a convincing excuse.
 
@@ -354,11 +364,17 @@ Mordekai: Nice to see the next generation taking up the age-old tradition of hit
 
 Bella: Sounds fun. I've always been looking forward to an adventure like that.
 
+Mordekai: Yeah, I have a hatchet with me at all times in case something like that happens again. It's my one of my two most precious worldly belongings. The other one's this beautiful pickup that I carjacked a few weeks ago. I like to call this combination a "trucket," get it?
+
+Billiam: (tries to force himself to laugh) Ha ha, very funny.
+
 Lalani: Anyways, Mordekai, where are you headed to?
 
 Mordekai: San Silicono, the silicon capital of the world, of course!
 
 Lalani: See Bella, this is a sign that we have to save Bobert. We can't just go home.
+
+Bella: The only sign I believe in is the stop sign.
 
 Mordekai: So where you kids from?
 
@@ -366,17 +382,65 @@ Billiam: St. Louis, Misery.
 
 Mordekai: Sounds exciting. Happiest city in the US, am I right?
 
+Bella: Full of fun things to do. Like visiting the lush greenery of our one and only national park: the metal version of the McDonald's Logo cut in half.
+
 (They reach San Silicono and Mordekai drops them off at the downtown)
 
-Bella: My stomach is rumbling like a magnitude 9 earthquake! Let's get something to eat!
+(As they get off the truck, Mordekai approaches Bella menacingly and suddenly grabs her in a bear hug)
+
+Bella: (caught off-guard) AAAHH!!
+
+Lalani: What are you doing!? Let go of her right this instant!
+
+Mordekai: (laughs) I can do whatever I want!
+
+Billiam: You're going to suffocate her! Stop it! We're going to call 911 and you'll be in jail!
+
+Lalani: (tries a different strategy) Look, whatever you've done, you deserve respect. Even if you've made mistakes. You're worthwhile. No one can ever take that away from you. Please, stop doing that. You're going to hurt her and I know you'll regret this decision. Think about this for a second.
+
+Mordekai: I'm Ezon Muzk, CEO of the world!
+
+Billiam: No, you're not. What're you talking about? You're a looney!
+
+Lalani: I know there's some good inside of you. No one was born evil. I don't want to have to make you go to jail!
+
+Mordekai: (narcissistically) I weigh 300 pounds. How you gonna stop me, huh? You're just a flimsy little teenager!
+
+Lalani: That's it! I've tried to settle this peacefully. But I can't let you endanger our lives any longer!
+
+(Lalani runs up behind Mordekai and punches him bluntly in the back, causing him to loosen his grip on Bella)
+
+Bella: (breaks free) Wow, Lalani, I didn't know you had that in you!
+
+(Lalani punches Mordekai again in the face, before fleeing the crime scene with the other two)
+
+Lalani: (tries to smile reassuringly to Bella and Billiam) Don't mind me. Let's get out of here now!
+
+(The kids run several blocks before stopping to catch their breath)
+
+Lalani: (on the verge of tears) Uggghh... How could I do that? Why did he make me do that? I just wanted to keep Bella safe and I ended up... ended up punching that man. I didn't mean to hurt him that badly? What about his friends and family? Maybe he had children. Maybe his family won't be able to pay the hospital bills. Why didn't he just leave us alone?
+
+Billiam: No, no, Lalani, you probably just saved Bella's life. C'mon, it was self-defense. Nothing to have a moral crisis over. I would have done the same too.
+
+Bella: What? You were there too and just stood there like someone watching TV. You wouldn't have the strength to beat up Mordekai like that either.
+
+Billiam: Lalani didn't "beat up" Mordekai. He wasn't even injured that badly.
+
+Bella: Nah. I think you should've roughed him up more. Maybe broken off both of his limbs, just to make sure he can't strangle any other innocent children. He's the public enemy number one. Well, maybe number two, after Ezon.
+
+Lalani: Is that really what I should've done? I don't know... what if he had pulled out his hatchet on me?
+
+Billiam: Lalani, what you did was a really noble thing in the moment. Don't worry about it too much.
+
+Bella: Well, my stomach is rumbling like a magnitude 9 earthquake! Let's get something to eat!
 
 Lalani: Sorry guys, but we don't really have any money for that right now.
 
-Billiam: Let's just rescue Bobert first and then worry about food later.
+Billiam: (agrees) Let's just rescue Bobert first and then worry about food later.
 
 Bella: Fine. But you guys got to promise me we'll get Froyo after this.
 
-Billiam: (instinctively) Yeah, I promise.
+Billiam: (instinctively) Yeah, whatever, I promise...
 
 (Cut to: Muzk Tower)
 
@@ -400,6 +464,10 @@ Agent: OK, I'll need you all to just give me your full names, date of birth, and
 
 (They run into an elevator and push the button for the highest floor)
 
+Lalani: Bella, why'd you just push the button for the highest floor?
+
+Bella: Where else could they be? And plus, we can enjoy the nice view at the top if we don't find them.
+
 (Cut to: Bobert, who is in a meeting room with Gizelle)
 
 Bobert: (excited) Gizelle, I just had a brilliant idea for a new crypto project. We can create a decentralized platform for user avatars using NFTs! And incorporate it into Spitter!
@@ -410,7 +478,7 @@ Bobert: (alarmed) What disturbance?
 
 Gizelle: (serene) It's just your friends, trying to rescue you.
 
-Bobert: (torn) My friends? But I thought I made my choice.
+Bobert: (torn) My friends? How'd they even get here? I thought I made my choice.
 
 Gizelle: You did, Bobert. But now, it's time for you to prove your loyalty to me. (stands up) Let's go deal with your friends together.
 
@@ -432,7 +500,7 @@ Gizelle: (furious) Why would you go with them? Obviously my agents and I know yo
 
 Bobert: (confused) But I'll still be helping you. So I'm still pursuing my passion as a cryptobro.
 
-Gizelle: (calm) No, Bobert. Don't you understand? Your friends are holding you back. Here, you can truly access your passion with all the resources I have. I'll make sure you are well-funded. Your friends just think you're a doofus. And I really need a crypto advisor at all times. What if there's an emergency? I'm no fool: I'm helping run a billion-dollar business here!
+Gizelle: (calm) No, Bobert. Don't you understand? Your friends are holding you back. Here, you can truly access your passion with all the resources I have. I'll make sure you are well-funded. Your friends just think you're a complete and utter doofus. And I really need a crypto advisor at all times. What if there's an emergency? I'm no fool: I'm helping run a trillion-dollar business here!
 
 Bobert: (torn) No, I...
 
@@ -440,13 +508,17 @@ Bella: Bobert, I'm so sorry I pasted that virus script on one of your YouTube vi
 
 Bobert: (shocked) That was you??
 
-Bella: Well, I was kind of fed up with your constant crypto babbling.
+Bella: Well... I was kind of fed up with your constant crypto babbling.
+
+Bobert: That's... low. I didn't know I was such a joke to you.
+
+Billiam: Um! No, see, I, uh, think you're really cool? Very, uh, swaggy? Erm, when you're not talking about crypto. You're a little, how do I say this, obsessed with crypto and, honestly... none of us get the crypto slang.
 
 Gizelle: See! They don't care a thing about you! You know the right thing to do.
 
 Bobert: (convinced) You're right, Gizelle. I have to follow my dreams.
 
-Bella: (in disbelief) Are you serious right now? You're just gonna drop everything and go with the crazy girl just because I gave you a virus and she's gave you graphics cards? Let me translate that into cryptospeak: Bobert this is FOMO, you here me?
+Bella: (in disbelief) Are you serious right now? You're just gonna drop everything and go with the crazy girl just because I gave you a virus and she's gave you graphics cards? Let me translate that into cryptospeak: Bobert this is FOMO, you hear me?
 
 Billiam: Yeah, Bobert, have you really thought this through?
 
@@ -464,17 +536,17 @@ Lalani: (mad) What do you mean there's nothing we can do? Do you really care thi
 
 Bobert: (regrets) Wait, Billiam. (pauses) I'm sorry. I didn't mean to hurt you guys. It's just... crypto is my passion. And I thought I could have both it and my friends. But I see now that I was wrong.
 
-Gizelle: (amused) Oh, Bobert. You always were a sentimental one. (to Billiam and his friends) Don't worry. I'll take good care of Bobert. He's a valuable asset to the Muzk company.
+Gizelle: (amused) Oh, Bobert. You always were a sentimental one. (to Billiam and his friends) Don't worry. I'll take good care of Bobert. He's a valuable asset to Muzk Inc.
 
-Bella: (sarcastic) I'm sure you'll take great care of Bobert, knowing you also showed us such astonishing hospitality by stuffing us in a white van without our consent to meet your uncle.
+Bella: (sarcastic) I'm sure you'll take great care of Bobert, knowing you also showed us such astonishing hospitality by stuffing us in a white van without our consent to meet your uncle. I'd even go as far as calling it kidnapping, although you might take offense with that word.
 
 Bobert: (calls out) Billiam! I'll send you a whole heaping mound of crypto! You can cash it in for dolllars at a crypto ATM!
 
-(Gizelle smiles evilly and suddenly, agents rush into the room)
+(Gizelle smiles slyly and suddenly, agents storm into the room)
 
-Gizelle: (triumpant) I've got you all now! You walked straight into my trap! I didn't know such smart and talented kids could be so idiotic. Wait, where'd they go?
+Gizelle: (triumpant) And now is the moment that I reveal that it's all a huge, premeditated trap! I've got you all now! You walked straight into my trap! I didn't know such smart and talented kids could be so idiotic... Wait, where'd they go?
 
-Bobert: Beats me.
+Bobert: (shrugs) Beats me. I'm sure they'll be fine. (turns his head away from Gizelle's glare)
 
 Agent: They jumped out of the window and are now escaping through the fire exit!
 
@@ -482,7 +554,7 @@ Gizelle: (authoritatively) Agents, restrain Bobert. He can't be trusted. Also, a
 
 Agent: So, uh, what exactly are we supposed to do, restrain Bobert or chase the kids?
 
-Gizelle: You idiots! Just do something to stop them from ruining my day!
+Gizelle: (facepalming) You idiots! Just do something to stop them from ruining my day!
 
 (Fade to black)
 
@@ -504,7 +576,7 @@ Bella: You're the chosen one. So you're the de facto leader, so everything that 
 
 (Cut to: Muzk Tower, where Bobert is sitting at a table with Gizelle and a group of agents)
 
-Bobert: (explaining) And that's why it's important to diversify your crypto portfolio. You never know when one coin might suddenly skyrocket in value. And this applies to companies too. Like consider the Muzk company. Don't just stick to EVs, rockets, and Spitter. You gotta branch out into other sectors, like casinos and flamethrowers. And don't forget to check out some altcoins, too.
+Bobert: (explaining) And that's why it's important to diversify your crypto portfolio. You never know when one coin might suddenly skyrocket in value. And this applies to companies too. Like consider Muzk Inc. Don't just stick to EVs, rockets, and Spitter. You gotta branch out into other sectors, like casinos, pyramid schemes, and flamethrowers. And don't forget to check out some altcoins, too.
 
 Gizelle: (impressed) You really are a wealth of knowledge when it comes to crypto, Bobert.
 
@@ -528,7 +600,7 @@ Billiam: Why me? Can't Bella do it?
 
 Bella: You're four years older than me. Therefore, you're entitled to do the call.
 
-Billiam: Fine. (picks up the hotel room phone) Hello? Hi mom... yes, we're OK... we're in San Silicono right now... look, it's a really long story... yes, we ate plenty of fruits and vegatables... we'll be back tomorrow, don't worry. We have money... got it, bye!
+Billiam: Fine. (picks up the hotel room phone) Hello? Hi mom... yes, we're OK... we're in San Silicono right now... look, it's a really long story... yes, we ate plenty of fruits and vegatables... mom! I'm not constipated. I just pooped today... yeah, I know that eating bananas will help me poop more... er, we can move off of this subject now... we'll be back tomorrow, don't worry. We have money... got it, bye!
 
 Lalani: You really think we'll be back home tomorrow?
 
@@ -612,7 +684,7 @@ Lalani: The problem is, what if they're right? They're his siblings, they know w
 
 Juno: Don't listen to them. Listen to yourself. You know what's right.
 
-Lalani: I guess so... but I can't go on like this any longer. His siblings are totally incompotent fools, and I have to pander them and make sure they don't starve or die, and... uggghh, I hate them!
+Lalani: I guess so... but I can't go on like this any longer. His siblings are totally incompetent fools, and I have to pander them and make sure they don't starve or die, and... uggghh, I hate them!
 
 Juno: No you don't.
 
@@ -634,6 +706,8 @@ Lalani: Nice meeting you, bye!
 
 Juno: Wait, what's your phone number?
 
+Lalani: (thinks about her confiscated phone) Pending.
+
 (Lalani returns to the hotel room)
 
 Lalani: (bangs hard on door) Are you two still awake? Open the door!
@@ -648,7 +722,7 @@ Bella: (with messed up bed hair) Sup.
 
 Lalani: I'm so sorry about what happened. We'll head home first thing tomorrow morning.
 
-Bella: No we won't. We're gonna kidnap Bobert.
+Bella: No we won't. We're gonna rekidnap Bobert.
 
 Lalani: (very confused) Uh... sure?
 
@@ -832,7 +906,7 @@ Lalani: Whoa, what a cute squirrel!
 
 Bella: Its face is ugly. And it's going to snatch your sushi if you don't pay attention.
 
-Lalani: It's not ugly! Look at that little button nose! I won't let it eat my sushi; it's just curious!
+Lalani: It's not ugly! Look at that little soft button nose! I won't let it eat my sushi; it's just curious!
 
 (The squirrel looks up at Lalani with a cute facial expression)
 
@@ -878,7 +952,7 @@ Billiam: (to the pigeon) I guess you're right. But still, it always feels like e
 
 Pigeon: Coo!
 
-Billiam: You can't say that! I'm not the "chosen one"! I can't be! Why would I, some totally random kid in St. Louis, be the "chosen one"? That's stupid, it's not like Ezon flipped a coin 28 times to decide who the "chosen one" would be.
+Billiam: You can't say that! I'm not the "chosen one!" I can't be! Why would I, some totally random kid in St. Louis, be the "chosen one?" That's stupid, it's not like Ezon flipped a coin 28 times to decide who the "chosen one" would be.
 
 Pigeon: Coo! Coooo!
 
@@ -902,11 +976,15 @@ Bella: You must be a furry!
 
 Billiam: What, no! That's preposterous!
 
+Lalani: Hey, if you really want to talk to someone, I'm sure there are a lot of nice people out there. Like, I talked to this nice employee at a bubble tea place. But, I guess whatever works for you.
+
+Billiam: (embarrassed) Let's just go.
+
 (Cut to: Muzk Tower, where Bobert is sitting in a meeting room with Gizelle)
 
 Bobert: (angry) Why did you save me, Gizelle? Why not just let me die with my friends?
 
-Gizelle: (calm) Because, Bobert, you're too valuable to me. Your knowledge of crypto is unparalleled. I couldn't let that go to waste.
+Gizelle: (calm) Because, Bobert, you're too valuable to me. Your knowledge of crypto is unparalleled. I couldn't let that go to waste. Remember our important project?
 
 Bobert: (sighs) I see. So I'm just a pawn in your game.
 
@@ -1062,17 +1140,17 @@ Bobert: (laughs) Sorry about that, Bella. I won't be using it as much from now o
 
 Bella: I'm surprised you're not as useless as I thought. And don't get too cocky. You're still the same annoying Bobert I remember.
 
-(Gizelle, defeated, has no choice but to let Bobert and his friends go)
-
-Gizelle: (ominously) You kids may have won this time, but my uncle is still after you!
-
 Bobert: Look, I still have the five million Dogecoins. I'll give you a share and we'll be even too, OK?
 
 Bella: (lightheartedly) Give me all of it and it'll be a done deal.
 
-Bobert: (suddenly remembering) Wait, so his exactly did you guys get in so much debt?
+Bobert: (suddenly remembering) Wait, so how exactly did you guys get in so much debt?
 
 Lalani: Bella's shenanigans, obviously!
+
+(Gizelle, defeated, has no choice but to let Bobert and his friends go)
+
+Gizelle: (ominously) You kids may have won this time, but my uncle is still after you!
 
 (Fade to black)
 
@@ -1104,7 +1182,13 @@ Billiam: Ugghhh, I can't tell which plan is worse.
 
 (Cut to: Billiam and his friends, seated around a table with Gizelle and Ezon on the other end, with a large projector in the middle)
 
-Ezon: So, Billiam, I'm impressed with your courage, turning yourself in like that.
+Bella: Wow, that plan went surprisingly smoothly!
+
+Lalani: Hush, the meeting's about to start.
+
+(Everyone sits in total fear as Ezon opens his mouth)
+
+Ezon: (surprisingly casual) So, Billiam, I'm impressed with your courage, turning yourself in like that.
 
 Billiam: (annoyed) Yeah, more like peer pressure.
 
@@ -1142,7 +1226,7 @@ Ezon: Of course not. You're too valuable. You're going to be a mole in Spitter's
 
 Billiam: You took me all the way here to San Silicono to tell me this? (starts uncontrollably laughing) What a joke.
 
-Bobert: Ezon, you think you're so smart and creative, but we're one step ahead of you.
+Bobert: (out of nowhere) Ezon, you think you're so smart and creative, but we're one step ahead of you.
 
 (Everyone turns and stares at Bobert)
 
@@ -1152,7 +1236,7 @@ Bobert: We already played our sabotage card. Spitter is collapsing as we speak. 
 
 Ezon: WHAT? Have these kids executed, agents!
 
-Gizelle: No, uncle Ezon. You can't do that. I sabotaged Spitter. (pauses to let that sentence sink into everyone) Do you think some dumb babbling cryptobro like Bobert could do such a thing? You're a total loony and I need to take over your corporate empire or it's all going to go down the drain like Spitter.
+Gizelle: No, uncle Ezon. You can't do that. I sabotaged Spitter. (pauses to let that sentence sink into everyone) Do you think some dumb babbling cryptobro like Bobert could do such a thing? You're a total loony and I need to take over your corporate empire or it's all going to go down the drain like Spitter. I mean, Spitter would probably have collapsed eventually even without my intervention. The only thing you know how to do is to make everyone think you're a tech genius. You don't know a thing about programming!
 
 Ezon: This is outrageous! Agents, restrain Gizelle!
 
@@ -1188,9 +1272,15 @@ Gizelle: Shut up! This is supposed to be my moment to shine! You're more useless
 
 Bella: (trying to lighten up the tension) So you're breaking up with Bobert?
 
+Lalani: Bella. No.
+
+Billiam: What is up with you and the shipping today?
+
+Gizelle: All of you, especially the 12-year-old, SHUT THE—
+
 Bobert: (seizing the opportunity) I call upon the power of the blockchain!!
 
-(Everyone turns again to stare at Bobert, and nothing happens)
+(Everyone turns again to stare at Bobert, but nothing happens)
 
 Bobert: YAYYYYYY!!!!! (He imagines a stream of crypto erupting from his hands and beating all the agents to the moon)
 
@@ -1198,7 +1288,7 @@ Bella: (understands the strategy) I've developed a new form of fighting called s
 
 (Bobert screams some more about crypto)
 
-Gizelle: Shut the hell up!
+Gizelle: SHUT THE HELL UP!
 
 Lalani: (slightly confused but playing along) I've developed a new form of fighting called teabending. It's like martial arts, but with the power of caffeine. I'll use my boiling water to give my opponent 3rd-degree burns and my straws to stab them. It's all about the flavor, Billiam. When your opponent smells like they sleep in a tea bag, that's when you know you've made it.
 
@@ -1218,7 +1308,7 @@ Bella: I'm pretty sure you stole that from somewhere...
 
 (The room is marinated in screams)
 
-Gizelle: That's it, you're all leaving. Put your hands up and walk out the door now, or I'll shoot you all! Never come back here ever again!
+Gizelle: That's it, you're all leaving. Put your hands up and walk out the door now, or I'll shoot you all! Never come back here ever again! And I'm scheduling an ear exam!
 
 (The kids happily comply with Gizelle's order and victory-dance out the door)
 
@@ -1237,6 +1327,8 @@ Lalani: Teamwork! We couldn't have done it without everyone's help.
 Bella: Yeah, yeah, yeah, time to do some cheesy team-spirit-building!
 
 Lalani: Looks like your sarcabending is still on.
+
+Bella: I work 24/7.
 
 Billiam: I'm exhausted. Let's head home.
 
