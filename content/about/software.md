@@ -16,14 +16,16 @@ type: page
 
 - **Web browser**: Firefox
 
-- **Text editor**: [Micro](https://git.exozy.me/a/dotfiles/src/branch/main/micro), Neovim, [code-server](https://git.exozy.me/a/dotfiles/src/branch/main/Code%20-%20OSS/User/settings.json)
+- **Text editor**: [Micro](https://git.exozy.me/a/dotfiles/src/branch/main/micro), [Neovim](https://git.exozy.me/a/dotfiles/src/branch/main/nvim/init.lua), [code-server](https://git.exozy.me/a/dotfiles/src/branch/main/Code%20-%20OSS/User/settings.json)
 
 - **Office**: [Nextcloud](https://cloud.exozy.me)
 
 - **Chat**: [Element](https://cloud.exozy.me/apps/riotchat/)
 
-- **Music**: VLC, mpv
+- **Music**: mpv, VLC
 
-- **Virtualization**: QEMU/KVM, Podman
+- **Virtualization**: Podman, QEMU/KVM
 
 - **Gaming**: RetroArch, [miscellaneous games](../games)
+
+- **Flexing my cool setup**: btop
