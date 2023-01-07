@@ -22,6 +22,6 @@ Eventually, Gerrit (the company) caught the eye of the big G, Google, and the Ge
 
 The next day, Gerrit (the person) announced his resignation from Gerrit (the company) and became a high school math teacher at LHWHS. The job was tough at first, but rewarding. He loved impacting the lives of so many kids and finally showing them the beauty of math. The school admistration also made him teach AP Computer Science, mainly because he was the only teacher there who actually knew what a CPU was.
 
-One day, Billiam Wender, Gerrit FFFFFF's brightest math student, asked him about being a math teacher and Gerrit launched into the story you are reading right now. As the story approached the present day, Billiam asked curiously, "So why aren't you a programmer anymore?"
+One day, Billiam Wender, Gerrit FFFFFF's brightest math student, asked him about his experiences being a math teacher and Gerrit launched into the story you are reading right now. As the story approached the present day, Billiam asked curiously, "So why aren't you a programmer anymore?"
 
 Gerrit FFFFFF replied, "Well, I never got arrays."
