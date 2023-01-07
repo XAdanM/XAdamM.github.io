@@ -138,7 +138,7 @@ Lalani: Oh, my pleasure. I love being kidnapped and tied to a chair while being 
 
 (Another agent shoves the Wender siblings into the room)
 
-Billiam: Lalani, why are you here? And you told them my address?
+Billiam: (worried) Lalani, why are you here? And you told them my address?
 
 Lalani: I was abducted and forced! I don't go around all willy-nilly handing out your address to shady goons!
 
@@ -152,9 +152,11 @@ Lalani: That would emit lots of greenhouse gases! Anyways, the agents apparently
 
 Bella: I'm shocked they couldn't doxx Bobert.
 
+Bobert: (confident) They can't doxx me, I'm a l33t hax0r!
+
 Billiam: Well, they kidnapped us while we were walking home after school. We tried to make a run for it, but Bobert kept on wasting our time talking about crypto.
 
-Bobert: It's not my fault! Guys, we gotta stay strong in this bear market. We can't let the FUD get to us.
+Bobert: It's not my fault! Look guys, we gotta stay strong in this bear market. We can't let the FUD get to us.
 
 (Bella facepalms)
 
@@ -376,9 +378,9 @@ Mordekai: San Silicono, the silicon capital of the world, of course!
 
 Lalani: See Bella, this is a sign that we have to save Bobert. We can't just go home.
 
-Bella: The only sign I believe in is the stop sign.
+Bella: (annoyed) The only sign I believe in is the stop sign.
 
-Mordekai: So where you kids from?
+Mordekai: (trying to sound friendly) So where you kids from?
 
 Billiam: St. Louis, Misery.
 
@@ -426,11 +428,11 @@ Billiam: No, no, Lalani, you probably just saved Bella's life. C'mon, it was sel
 
 Bella: What? You were there too and just stood there like someone watching TV. You wouldn't have the strength to beat up Mordekai like that either.
 
-Billiam: Lalani didn't "beat up" Mordekai. He wasn't even injured that badly.
+Billiam: (trying to stay calm) Hey, Lalani didn't "beat up" Mordekai. He wasn't even injured that badly.
 
 Bella: Nah. I think you should've roughed him up more. Maybe broken off both of his limbs, just to make sure he can't strangle any other innocent children. He's the public enemy number one. Well, maybe number two, after Ezon.
 
-Lalani: Is that really what I should've done? I don't know... what if he had pulled out his hatchet on me?
+Lalani: (conflicted) Is that really what I should've done? I don't know... what if he had pulled out his hatchet on me?
 
 Billiam: Lalani, what you did was a really noble thing in the moment. Don't worry about it too much.
 
@@ -464,7 +466,7 @@ Bella: We're Gizelle's friends.
 
 Agent: OK, I'll need you all to just give me your full names, date of birth, and mailing address... Hey, where are you kids going?
 
-(They run into an elevator and push the button for the highest floor)
+(They run into an elevator and Bella jabs the button for the highest floor)
 
 Lalani: Bella, why'd you just push the button for the highest floor?
 
@@ -598,7 +600,7 @@ Billiam: Yeah, me too. Let's find a hotel and get some sleep. We'll figure out o
 
 Lalani: Billiam, you should call your parents and let them know you're OK. I already called mine.
 
-Billiam: Why me? Can't Bella do it?
+Billiam: (fed up) Why me? Can't Bella do it?
 
 Bella: You're four years older than me. Therefore, you're entitled to do the call.
 
@@ -618,7 +620,7 @@ Bella: If it weren't for *you*, maybe we'd be back in St. Louis enjoying a refre
 
 Lalani: You two would be dead by now in this city if it weren't for me!
 
-Bella: Maybe Billiam would be, not me.
+Bella: (laughs) Maybe Billiam would be, not me.
 
 Billiam: Hey!
 
@@ -674,15 +676,15 @@ Lalani: This friend of mine has run away from home and his family to join a comp
 
 Juno: Crypto? I love cryptography!
 
-Lalani: You're a cryptobro too?
+Lalani: You're a cryptobro too? (gets up to leave)
 
-Juno: Wait what? No, I'm a cryptography fan, not cryptocurrencies. Cryptocurrencies are an abject scam. They stole our name! But let me pitch to you why cryptography is so cool: it's basically math, but if you mess up, people can get killed!
+Juno: Wait what? No no, I'm a cryptography fan, not cryptocurrencies. Cryptocurrencies are an abject scam. They stole our name! But let me pitch to you why cryptography is so cool: it's basically math, but if you mess up, some dissident under an authoritarian regime will get killed!
 
-Lalani: Sounds fun. Well, the thing is, I care about my friend and I'm trying to drag his siblings out here to San Silicono to help rescue and convince my friend to come back, but his siblings hate him! They keep on complaining how he talks about crypto all the time and how he's better off now working on crypto full-time.
+Lalani: (sits back down, relieved) Sounds fun. Well, the thing is, I care about my friend and I'm trying to drag his siblings out here to San Silicono to help rescue and convince my friend to come back, but his siblings hate him! They keep on complaining how he talks about crypto all the time and how he's better off now working on crypto full-time.
 
 Juno: Sounds like a terrible job, if you ask me. A professional scammer.
 
-Lalani: The problem is, what if they're right? They're his siblings, they know what he wants. Maybe this really is better for my friend.
+Lalani: The problem is... what if they're right? They're his siblings, they know what he wants. Maybe this really is better for my friend.
 
 Juno: Don't listen to them. Listen to yourself. You know what's right.
 
@@ -924,7 +926,7 @@ Lalani: (suspicious) What show was this, exactly?
 
 Billiam: *Squirrelvatar: The Last Acornbender*
 
-Lalani: The animated show for eight-year-olds.
+Lalani: (dismissive) The animated show for eight-year-olds.
 
 Billiam: Well, when you put it that way—
 
@@ -1006,7 +1008,7 @@ Lalani: But what if Bobert is still alive? We can't just leave him in San Silico
 
 Billiam: You really think he survived that gunfight?
 
-Lalani: We can't give up hope.
+Lalani: (resolute) We can't give up hope.
 
 Bella: What are we going to do, find Gizelle and ask her to help us find Bobert?
 
@@ -1160,23 +1162,23 @@ Gizelle: (ominously) You kids may have won this time, but my uncle is still afte
 
 (Opening shot: Lalani and the Wender siblings are sitting in their hotel room, ready to return home)
 
-Lalani: Everyone excited to head back home?
+Lalani: (exhausted) Everyone excited to head back home?
 
 Billiam: I'm just excited to get a replacement phone after the agents confiscated ours yesterday.
 
-Bella: Look, I'm tired of the Muzks screwing with us like this. Let's just face Ezon himself and get this whole "chosen one" business sorted out for once and for all. Then we can go home.
+Bella: Look, I'm tired of the Muzks screwing with us like this. Let's just face Ezon himself and get this whole "chosen one" business sorted out for once and for all. Then we can go home. Maybe they'll even give us our phones back.
 
-Billiam: No way! What if Ezon kills me or something?
+Billiam: (shocked) No way! What if Ezon kills me or something?
 
 Bella: Look, we're regulars at this point at Muzk Tower. We'll be fine.
 
 Lalani: So what's the plan? Turn ourselves into the agents and make them take us to Ezon?
 
-Bella: That's not a bad idea, actually. I'm impressed, Lalani.
+Bella: Wonderful idea! I'm impressed, Lalani.
 
 Bobert: Yeah, Bella's ideas are usually way worse. Like getting me nearly killed by some shady guys over a few million Dogecoins.
 
-Billiam: I'd rather not try this plan, Lalani.
+Billiam: (serious) I'd rather not try this plan, Lalani.
 
 Bobert: I know! I'll call Gizelle and ask her to arrange a meeting with us and her uncle.
 
@@ -1184,7 +1186,7 @@ Billiam: Ugghhh, I can't tell which plan is worse.
 
 (Cut to: Billiam and his friends, seated around a table with Gizelle and Ezon on the other end, with a large projector in the middle)
 
-Bella: Wow, that plan went surprisingly smoothly!
+Bella: Wow, that went surprisingly smoothly!
 
 Lalani: Hush, the meeting's about to start.
 
@@ -1228,6 +1230,8 @@ Ezon: Of course not. You're too valuable. You're going to be a mole in Spitter's
 
 Billiam: You took me all the way here to San Silicono to tell me this? (starts uncontrollably laughing) What a joke.
 
+Bella: (jokes) I've an idea! Billiam, you should hound the other Mastodon developers into rewriting the whole thing in Rust.
+
 Bobert: (out of nowhere) Ezon, you think you're so smart and creative, but we're one step ahead of you.
 
 (Everyone turns and stares at Bobert)
@@ -1254,13 +1258,13 @@ Gizelle: (pulls outs gun) Don't you dare move, Billiam! Or you, Ezon!
 
 Lalani: I say we jump out the window again.
 
-Billiam: Do you really think this trick will work twice?
+Billiam: (skeptical) You really think this trick will work twice?
 
 Bella: Uh, shouldn't we not be exposing all of our strategic communications to the enemy?
 
 Lalani: How else are we supposed to coordinate an escape?
 
-Bobert: I know. I have a secret method of last resort.
+Bobert: (suddenly excited) I know. I have a secret method of last resort.
 
 Bella: Stop talking and save us, Mr. Crypto!
 
@@ -1270,7 +1274,7 @@ Lalani: This is ridiculous, Bobert. This cryptobending nonsense can't be real.
 
 Bobert: I have faith in my crypto powers. Trust me. Come on, crypto powers. Work for me!
 
-Gizelle: Shut up! This is supposed to be my moment to shine! You're more useless than a life-sized waffle costume. Do you think I ever cared about you, Bobert?
+Gizelle: (irritated) Shut up! This is supposed to be my moment to shine! You're more useless than a life-sized waffle costume. Do you think I ever cared about you, Bobert?
 
 Bella: (trying to lighten up the tension) So you're breaking up with Bobert?
 
@@ -1278,7 +1282,7 @@ Lalani: Bella. No.
 
 Billiam: What is up with you and the shipping today?
 
-Gizelle: All of you, especially the 12-year-old, SHUT THE—
+Gizelle: (furious) All of you, especially the 12-year-old idiot, SHUT THE—
 
 Bobert: (seizing the opportunity) I call upon the power of the blockchain!!
 
