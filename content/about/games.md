@@ -29,7 +29,7 @@ type: page
 
 ## Recommended libre games
 
-Nope, this list isn't in order of best to worst (that 2048 game is by far the best) but rather in no particular order. Fun fact: we once had all of these installed on [exozyme](https://exozy.me), but you can imagine the bloat that caused and Arch users can't stand bloat...
+This list isn't in order of best to worst, but that 2048 game is by far the best!
 
 - SuperTuxKart (technically contains a few nonfree assets 😱)
 - SuperTux
