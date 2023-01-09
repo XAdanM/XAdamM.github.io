@@ -4,7 +4,7 @@ type: page
 ---
 
 
-- [USACO Guide](https://github.com/cpinitiative/usaco-guide): I am a contributor
+- [USACO Guide](https://github.com/cpinitiative/usaco-guide): A free, high quality guide for USACO
 
 - [Library](https://git.exozy.me/a/Library): Clean templates and algorithm implementations that I use
 

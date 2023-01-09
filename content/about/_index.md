@@ -68,7 +68,7 @@ still alive.
 
 (this line is reserved for future bug fixes).
 
-paralyzed by the infinite possibilities for each day.
+paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/)
 
 atrocious at writing poetry.
 
