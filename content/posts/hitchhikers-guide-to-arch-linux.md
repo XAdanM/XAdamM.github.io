@@ -7,7 +7,7 @@ tags: ["humor", "fiction", "story", "arch", "linux", "fun"]
 ---
 
 
-*This is a work of fiction. Any resemblance to actual events or locales or persons, living or dead, is not coincidental and you should sue me. The characters are based off of those in [Intro to Python](https://codeberg.org/LadueCS/Intro-to-Python).*
+*This is a work of fiction. Any resemblance to actual events or locales or persons, living or dead, is not coincidental and you should sue me. The characters are based off of those in [Intro to Python](https://codeberg.org/LadueCS/Intro-to-Python). For more similar stories, see the [LadueCS Lore](https://codeberg.org/LadueCS/Lore).*
 
 
 There are 10 kinds of people in the world. Those who know binary, and nine kinds of people that don't. Bobert Wender is one of those nine kinds, specifically the "I totally know binary cause it's just a series of ones and zeros and it's what computers speak and—wait, what's a base again?" kind of person. He's the kind of person who knows exactly what he's doing, until he doesn't, at which point disaster strikes.
@@ -34,7 +34,7 @@ You've probably already forgotten that Billiam is the president of the school co
 
 So I kinda lied earlier. Well, actually Billiam kinda lied on his college applications, because everyone does. He's not actually the president of the CS club, but rather the co-president. OHHH NOOO! Someone go alert the colleges to reject his applications!
 
-The other co-president of the club is Lalani Lee, who is a much more interesting person than Billiam, at least to Bobert. In fact, Bobert would probably be super obsessed with Lalani if he wasn't already super obsessed with anime girls. Wait, did I already mention that Bobert is hardcore hyper-weeb? He also brags to everyone about how he knows Japanese, except his entire knowledge of the language comes from watching dubbed anime so I'm not sure if should trust him too much about that.
+The other co-president of the club is Lalani Lee, who is a much more interesting person than Billiam, at least to Bobert. In fact, Bobert would probably be super obsessed with Lalani if he wasn't already super obsessed with anime girls. Wait, did I already mention that Bobert is hardcore weeb? He also brags to everyone about how he knows Japanese, except his entire knowledge of the language comes from watching dubbed anime so I'm not sure if should trust him too much about that.
 
 The entire planet of Earth has a problem, which is that its computers enjoy malfunctioning and watching you cry. Many solutions have been suggested for this problem, but most of them involved creating more and more powerful and smart computers that only gain more and more satisfaction from watching you cry.
 
@@ -78,11 +78,11 @@ Bobert weight-lifts his giant l33t hax0r RGB high-end gaming laptop out of his b
 
 "Your computer is probably a walking, talking malware target then. We don't get viruses on Linux. Hey, you're the one that got a virus from a comment someone posted on your YouTube video!" Aydyn jabs back.
 
-"Linux security is a myth. The kernel has an astronomical attack surface. Plus, it's GNU+Linux." interjects Bella Wender, out of nowhere.
+"Linux security is a myth. The kernel has an astronomical attack surface." interjects Bella Wender, out of nowhere.
 
-"No OS elitism guys!" yells Billiam from the other side of the room, "and Bella, since when did you become little Richard Stallman? I always knew you were little Einstein, but now little rms, too?"
+"No OS elitism guys!" yells Billiam from the other side of the room.
 
-"This isn't OS elitism!" Aydyn retorts, "Linux is just better! Just look around in this room: using Linux correlates with being a better programmer! Lalani uses Arch Linux, I use Void Linux, I don't even know what distro Bella uses—"
+"This isn't OS elitism!" Aydyn retorts, "Linux is just better! Just look around in this room: using Linux correlates with being a better programmer! Lalani uses Arch Linux, I use GNU Guix, I don't even know what distro Bella uses—"
 
 "Having an anime profile picture correlates with being a better programmer!" Bobert shouts, getting really annoyed at this point.
 
@@ -92,9 +92,9 @@ Bobert weight-lifts his giant l33t hax0r RGB high-end gaming laptop out of his b
 
 "OK fine, but what's the best Linux distro?" asks Aydyn, ten times more provocatively.
 
-"GNU Guix on a ThinkPad with Libreboot. I ported Libreboot myself to this particular model." Bella responds casually.
+"Ubuntu. I don't care about stupid OS elitism. I just need something that works. Look, even the LHWHSCSC club server runs Ubuntu." Bella replies, irritated.
 
-"No, the best distro is Ubuntu. Who's ever heard of Guix? Everyone supports Ubuntu and it's super easy to find software and support. Look, even the LHWHSCSC club server runs Ubuntu!" a club member says innocently, at which point they are butchered the resulting IRL flamewar by ten hardcore Linux elitists.
+"No, you should try OpenSUSE. It has a much better desktop environment and isn't a total meme." a club member says innocently, at which point they are butchered the resulting IRL flamewar by ten hardcore Linux elitists.
 
 "THOU SHALT NOT BIKESHED!" screams Billiam like a fantic, "No one wants to hear your stupid arguments on why Ubuntu sucks and why our club server should switch to some obscure distro that's gonna get discontinued in two years."
 
@@ -180,7 +180,7 @@ Anyways, meetings usually devolve into either distro flamewars, web browser flam
 
 "Well, Bella, can you come over and try fixing my Arch installation?" Lalani asks, a little bit embarrassed.
 
-"OK," Bella says and walks over. She turns the laptop off and on.
+"OK. I don't understand why everything thinks I can magically fix all their problems though. I've never even used Arch Linux!" Bella says and walks over. She turns the laptop off and on.
 
 The laptop boots up perfectly fine, no kernel panics, nothing.
 
