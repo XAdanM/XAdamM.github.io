@@ -47,6 +47,7 @@ theme = 'gokarna'
   description = '(+ (This subdomain) (Ordinal n) (! off) (Element 39) (Wide area network) (Prefix for billion))'
   accentColor = '#00dd42'
   footer = '🎉 Made with Hugo and frustration! - CC BY-SA 4.0'
+  togglePreviousAndNextButtons = 'true'
   socialIcons = [
       {name = 'email', url = '/about/email'},
       {name = 'forgejo', url = 'https://git.exozy.me/a'},
