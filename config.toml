@@ -49,13 +49,13 @@ theme = 'gokarna'
   footer = '🎉 Made with Hugo and frustration! - CC BY-SA 4.0'
   togglePreviousAndNextButtons = 'true'
   socialIcons = [
-      {name = 'email', url = '/about/email'},
-      {name = 'forgejo', url = 'https://git.exozy.me/a'},
-      {name = 'codeberg', url = 'https://codeberg.org/xy'},
-      {name = 'mastodon', url = 'https://social.exozy.me/@a'},
-      {name = 'peertube', url = 'https://tube.exozy.me/a/a/video-channels'},
-      {name = 'matrix', url = 'https://matrix.to/#/@a:exozy.me'},
-      {name = 'archlinux', url = 'https://aur.archlinux.org/packages/?K=Ta180m&SeB=m'},
-      {name = 'codeforces', url = 'https://codeforces.com/profile/Ta180m'},
-      {name = 'liberapay', url = 'https://liberapay.com/xy/'},
+      {name = 'email', url = '/about/email', rel = 'me'},
+      {name = 'forgejo', url = 'https://git.exozy.me/a', rel = 'me'},
+      {name = 'codeberg', url = 'https://codeberg.org/xy', rel = 'me'},
+      {name = 'mastodon', url = 'https://social.exozy.me/@a', rel = 'me'},
+      {name = 'peertube', url = 'https://tube.exozy.me/a/a/video-channels', rel = 'me'},
+      {name = 'matrix', url = 'https://matrix.to/#/@a:exozy.me', rel = 'me'},
+      {name = 'archlinux', url = 'https://aur.archlinux.org/packages/?K=dodecahedron&SeB=m', rel = 'me'},
+      {name = 'codeforces', url = 'https://codeforces.com/profile/Ta180m', rel = 'me'},
+      {name = 'liberapay', url = 'https://liberapay.com/xy/', rel = 'me'},
     ]
