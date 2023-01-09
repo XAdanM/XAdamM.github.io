@@ -82,7 +82,7 @@ Bobert weight-lifts his giant l33t hax0r RGB high-end gaming laptop out of his b
 
 "No OS elitism guys!" yells Billiam from the other side of the room.
 
-"This isn't OS elitism!" Aydyn retorts, "Linux is just better! Just look around in this room: using Linux correlates with being a better programmer! Lalani uses Arch Linux, I use GNU Guix, I don't even know what distro Bella uses—"
+"This isn't OS elitism!" Aydyn retorts, "Linux is just better! Just look around in this room: using Linux correlates with being a better programmer! Lalani uses Arch Linux, I use NixOS, I don't even know what distro Bella uses—"
 
 "Having an anime profile picture correlates with being a better programmer!" Bobert shouts, getting really annoyed at this point.
 
