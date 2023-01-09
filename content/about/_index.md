@@ -44,7 +44,7 @@ faithfully cataloguing my [horde](hardware).
 
 training neural networks to [vomit garbage](https://social.exozy.me/@ebooks/).
 
-trying to figure out what exactly I should do with my copy of *Free Software, Free Society* (first edition) autographed by the infamous Richard Stallman himself.
+looking up images online of chevrotains, jerboas, Tibetan foxes, Pallas's cats, potoos, and alpacas, which you should too, because it will instantly make your day better.
 
 [breaking Arch Linux machines](/posts/installing-every-arch-package/).
 
