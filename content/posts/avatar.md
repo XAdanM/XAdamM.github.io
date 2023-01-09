@@ -1,6 +1,7 @@
 ---
 title: "Avatar"
 date: 2023-01-05T22:43:56Z
+draft: true
 description: "More fictional misadventures of the LHWHS Computer Science Club"
 type: "post"
 tags: ["fiction", "story", "lwhws", "adventure", "humor", "satire", "fun", "cryptocurrency", "mastodon"]

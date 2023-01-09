@@ -1,6 +1,7 @@
 ---
 title: "Career Mistake"
 date: 2023-01-07T02:42:19Z
+draft: true
 description: "A short story about the worst mistake of Gerrit FFFFFF's career"
 type: "post"
 tags: ["fiction", "humor", "short story", "story", "programming", "work"]

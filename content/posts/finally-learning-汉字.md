@@ -1,6 +1,7 @@
 ---
 title: "Finally Learning 汉字"
 date: 2022-12-31T03:34:36Z
+draft: true
 description: "Finally learning 汉字 after 10 years"
 type: "post"
 tags: ["chinese", "hanzi", "learning", "memory"]

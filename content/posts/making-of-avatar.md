@@ -1,6 +1,7 @@
 ---
 title: "The Making of Avatar"
 date: 2023-01-05T22:46:52Z
+draft: true
 description: "How my previous post was written"
 type: "post"
 tags: ["explanation", "story", "fiction", "humor", "fun"]
