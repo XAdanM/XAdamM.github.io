@@ -30,7 +30,7 @@ pretending like I know [$SOME_RANDOM_PROGRAMMING_LANGUAGE](languages).
 
 trying to find time to actually read real [books](books).
 
-making Gitea instances [talk to each other](https://nlnet.nl/project/Gitea/).
+making code forges [talk to each other](https://nlnet.nl/project/Gitea/).
 
 creating a compilation of hilariously useless (and fun!) [quotes](quotes).
 
@@ -68,7 +68,7 @@ still alive.
 
 (this line is reserved for future bug fixes).
 
-paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/)
+paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/).
 
 atrocious at writing poetry.
 
