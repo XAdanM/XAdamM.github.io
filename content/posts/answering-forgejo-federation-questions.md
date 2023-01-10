@@ -24,7 +24,7 @@ Most likely yes. We want as many forges as possible to be federated, so we will 
 
 A lot of difficult and seemingly unrelated problems like migrating projects, federated pull requests, and mirroring issues actually have the same solution. A project's code is stored using Git and can be easily migrated, but the issues, pull requests, and project metadata are stored in the database. If only we had a common format for representing all the various components of a project and code to serve and store project components using this format... then mirroring issues would be as easy as fetching remote issues in this format and storing them on our instance. I know, [let's make our own format](https://xkcd.com/927/)!
 
-And that's why F3 was created. It's a JSON format closely based on how projects are internally stored in Forgejo's database. Unfortunately, there are also 14 competing standards, most notably the [ForgeFed vocabulary](https://forgefed.org/vocabulary.html). Since the rest of Forgejo federation uses ForgeFed, we're currently spending a lot of effort on merging the F3 and ForgeFed formats into a single standard.
+And that's why F3 was created. It's a JSON format closely based on how projects are internally stored in Forgejo's database. Although it has a similar semantics, it is different from the [ForgeFed vocabulary](https://forgefed.org/vocabulary.html). Since the rest of Forgejo federation uses ForgeFed, we're working on unifying F3 and the ForgeFed vocabulary so they can use the same codebase.
 
 ### Further reading
 
