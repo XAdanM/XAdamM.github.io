@@ -17,15 +17,17 @@ I vaguely remember hearing a month ago about performance problems due to Mastodo
 
 Adding support for `Delete` activities was surprisingly easy. First, I waited a few minutes for one to arrive and printed it out:
 ```json
-activitypub.Activity[Delete] {
-	object: https://red.niboe.info/users/plr,
-	actor: https://red.niboe.info/users/plr,
-	audience: [],
-	tag: [],
-	to: [https://www.w3.org/ns/activitystreams#Public],
-	bto: [],
-	cc: [],
-	bcc: [],
+{
+	"@context": "https://www.w3.org/ns/activitystreams",
+	"type": "Delete",
+	"object": "https://red.niboe.info/users/plr",
+	"actor": "https://red.niboe.info/users/plr",
+	"audience": [],
+	"tag": [],
+	"to": ["https://www.w3.org/ns/activitystreams#Public"],
+	"bto": [],
+	"cc": [],
+	"bcc": [],
 }
 ```
 
