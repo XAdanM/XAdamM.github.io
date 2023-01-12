@@ -46,8 +46,7 @@ func delete(ctx context.Context, delete ap.Delete) error {
 	if err != nil {
 		return err
 	}
-	user_service.DeleteUser(ctx, objectUser, true)
-	return nil
+	return user_service.DeleteUser(ctx, objectUser, true)
 }
 ```
 
