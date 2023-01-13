@@ -1,4 +1,4 @@
-baseURL = 'https://a.exozy.me'
+baseURL = 'https://a.exozy.me/'
 languageCode = 'en-us'
 title = 'Some Random Website'
 theme = 'gokarna'
