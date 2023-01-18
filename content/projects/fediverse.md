@@ -11,3 +11,5 @@ type: page
 - [ForgeFed](https://forgefed.org/): ActivityPub-based forge federation protocol
 
 - [OpenContest](https://codeberg.org/LadueCS/OpenContest): A simple, open, and federated HTTPS JSON protocol to enable anyone to develop and host online programming contests
+
+- [Fuwuqi](https://git.exozy.me/a/fuwuqi): A useless C2S ActivityPub server
